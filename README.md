@@ -122,6 +122,10 @@
 <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
 <a href="https://w3.org/TR/CSS/#css" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
+
+### 🌟 Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="11b556fb-28f9-40d2-a424-27dfd9873400" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 📈 Stats
 
 <p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
