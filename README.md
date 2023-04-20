@@ -124,7 +124,7 @@
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 
 ### 🌟 Certifications
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/aws-certified-cloud-practitioner.png" alt="aws certified cloud practitioner" width=200 height=200>
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/aws-certified-cloud-practitioner.png" width=200 height=200>
 
 ### 📈 Stats
 
