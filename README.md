@@ -100,7 +100,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<img src="(https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/f6614a4998e14a1e636eb9c2bb065f5a5935eb13/github-contribution-grid-snake.svg)">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
