@@ -124,7 +124,7 @@
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 
 ### 🌟 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="11b556fb-28f9-40d2-a424-27dfd9873400" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/aws-certified-cloud-practitioner.png" alt="aws certified cloud practitioner" width=200 height=200>
 
 ### 📈 Stats
 
