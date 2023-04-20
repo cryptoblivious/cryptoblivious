@@ -16,8 +16,9 @@
 ### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" />  TLS : The Last Stand 
 [TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their grit and will against each other to be the last person standing in a cyberpunk world.
 
+
 <p align="right">
-.. working on few more projects 😉 </p>
+... and working on few more projects 😉 </p>
 
 
 ## Tech Stack 💻
