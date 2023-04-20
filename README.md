@@ -6,6 +6,11 @@
 <a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
+<p>
+  <a href="https://code.visualstudio.com/download" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
+  </a>
+</p>
 
 ## Projects 💫
 
@@ -33,12 +38,7 @@
   <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
     <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
   </a>
-  &nbsp; 
-  <a href="https://code.visualstudio.com/download" target="_blank">
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
-  </a>
-  &nbsp;
-</p>
+
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
