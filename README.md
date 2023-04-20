@@ -2,7 +2,7 @@
 <h3 align="center">A junior software engineer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptoblivious&label=Profile%20views&color=0e75b6&style=flat" alt="cryptoblivious" /> </p>
-
+<p align="left"> <img src="https://img.shields.io/github/followers/cryptoblivious?style=social" alt="n followers" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptoblivious" alt="cryptoblivious" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cryptoblivious" target="blank"><img src="https://img.shields.io/twitter/follow/cryptoblivious?logo=twitter&style=for-the-badge" alt="cryptoblivious" /></a> </p>
