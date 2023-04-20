@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> </h1>
+<div style="vertical-align:center">
+ <h1 align="center">Hi <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> </h1>
 <h1>I'm cryptoblivious</h1>
 <h3 align="center">A junior software engineer from Canada</h3>
+</div>
 
 <p align="center">
  <a href="https://andrzejw.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fuchsia&style=for-the-badge" style="vertical-align:center" /></a>
