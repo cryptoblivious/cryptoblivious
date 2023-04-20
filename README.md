@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-## Creation 💫
+## Projects 💫
 
 
 ### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
