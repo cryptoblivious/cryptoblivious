@@ -46,7 +46,7 @@
   </a>
   &nbsp;
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="btc qr code" width=200 height=200>
-  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/eth-qr-code.svg" alt="btc qr code" width=200 height=200>
+  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/605ca8168dbb97ad1ce95b54ed05862ebec79411/eth-qr-code.svg" alt="eth qr code" width=200 height=200>
 </p>
 
 
