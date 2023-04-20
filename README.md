@@ -15,7 +15,7 @@
 </> and Crafted with 🔥 by Andrzej Wisniowski
 
 ### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" />  TLS : The Last Stand 
-[TLS : The Last Stand](https://tls.woodchuckgames.com)) is a Smash-like online multiplayer game where heroes pit their grit and will against each other to be the last person standing in a cyberpunk world.
+[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their grit and will against each other to be the last person standing in a cyberpunk world.
 
 ### <img src="https://capturemytweet.itsvg.in/logo.png" width="16px" />  Capture my Tweet
 Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
