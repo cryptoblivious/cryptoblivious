@@ -7,12 +7,12 @@
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-## Creation 👨‍💻
+## Creation 💫💻
 
 
 ### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
-</> and Crafted with 💛 by Vishwa Gaurav
+[Andrzej Wisniowski - Portfolio]([https://itsvg.in](https://andrzejw.com)),
+</> and Crafted with 🔥 by Andrzej Wisniowski
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
@@ -325,7 +325,7 @@ if (codeWorking){
 <p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
 
 
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on The Last Stand<br><br>🌱 I’m currently learning [React](https://react.dev/)<br><br>👨‍💻 All of my projects are available ![here](https://andrzejw.com/)<br><br>📫 How to reach me andrzej.wis123@gmail.com<br><br>📄 Know about ![my experiences](https://andrzejw.com/Files/2022-05_EN_Andrzej%20Wisniowski%20-%20CV%20(Software%20Dev).pdf)<br><br>⚡ Fun fact I use ChatGPT everyday
 
 
