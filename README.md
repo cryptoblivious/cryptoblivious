@@ -21,8 +21,25 @@
  <br/>
 ... and working on few more projects 😉 </p>
 
+<p align="center"> 
+ <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="eth qr code" width=200 height=200>
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/c6d9395903ecaac0b362d5d8bce685f50f23dc95/eth-qr-code.svg" alt="btc qr code" width=200 height=200>
+</p>
 
 ## Tech Stack 💻
+
+
+<p align="center"> 
+  <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
+    <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
+  </a>
+  &nbsp; 
+  <a href="https://code.visualstudio.com/download" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
+  </a>
+  &nbsp;
+</p>
+
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -102,27 +119,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
 </p>
-
-<p align="center"> 
-  <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
-    <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
-  </a>
-  &nbsp; 
-  <a href="https://code.visualstudio.com/download" target="_blank">
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
-  </a>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="eth qr code" width=200 height=200>
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/c6d9395903ecaac0b362d5d8bce685f50f23dc95/eth-qr-code.svg" alt="btc qr code" width=200 height=200>
-</p>
-
-
-
-- 🏫 I’m currently learning **Computer Sciences**
-
-- 🚀 I'm always looking for new opportunities to expand my knowledge and improve my programming abilities.
-
-- 💻 Take a look at [my portfolio](https://andrzejw.com/) and see my latest projects!
 
 
 ### 🌟 Technologies i use
