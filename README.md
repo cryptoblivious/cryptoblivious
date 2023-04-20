@@ -10,8 +10,8 @@
 ## Projects 💫
 
 
-### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
-[Andrzej Wisniowski - Portfolio](https://andrzejw.com) is a portfolio website </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
+### <img src="https://itsvg.in/logo.png" width="16px" />  Andrzej W | Portfolio 
+[Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
 
 ### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" />  TLS : The Last Stand 
 [TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their grit and will against each other to be the last person standing in a cyberpunk world.
