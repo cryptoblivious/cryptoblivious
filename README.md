@@ -8,6 +8,7 @@
 </p>
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="eth qr code" width=200 height=200>
+ <div width=200></div>
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/c6d9395903ecaac0b362d5d8bce685f50f23dc95/eth-qr-code.svg" alt="btc qr code" width=200 height=200>
 </p>
 
