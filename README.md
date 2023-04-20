@@ -1,4 +1,4 @@
-<h1 align="center">Hi! </br> <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> </br> I'm cryptoblivious </h1>
+<h1 align="center"><img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> Hi! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> </br> I'm cryptoblivious </h1>
 <h3 align="center">A junior software engineer from Canada</h3>
 
 <p align="center">
