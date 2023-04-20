@@ -5,7 +5,7 @@
  <a href="https://andrzejw.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fuchsia&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-/p>
+</p>
 
 ## Creation 👨‍💻
 
