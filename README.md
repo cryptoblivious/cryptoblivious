@@ -94,7 +94,7 @@
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)](https://github.com/cryptoblivious/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)](https://twitter.com/cryptoblivious)
 
 ### Thanks for Visiting my GitHub Profile!
 
