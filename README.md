@@ -45,8 +45,8 @@
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
   &nbsp;
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="btc qr code" width=200 height=200>
-  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/605ca8168dbb97ad1ce95b54ed05862ebec79411/eth-qr-code.svg" alt="eth qr code" width=200 height=200>
+  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="eth qr code" width=200 height=200>
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/c6d9395903ecaac0b362d5d8bce685f50f23dc95/eth-qr-code.svg" alt="btc qr code" width=200 height=200>
 </p>
 
 
@@ -122,6 +122,10 @@
 <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
 <a href="https://w3.org/TR/CSS/#css" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
+
+### 🌟 Certifications
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/aws-certified-cloud-practitioner.png" alt="aws certified cloud practitioner" width=200 height=200>
+
 ### 📈 Stats
 
 <p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
