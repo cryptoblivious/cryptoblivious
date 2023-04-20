@@ -86,7 +86,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
-## Current GitHub Stats 📊
+## GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
