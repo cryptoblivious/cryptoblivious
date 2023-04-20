@@ -1,7 +1,6 @@
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
-</h1>
-<p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
+<h1 align="center">Hi <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />, I'm cryptoblivious</h1>
+<h3 align="center">A junior software engineer from Canada</h3>
+
 <p align="center">
  <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -196,9 +195,6 @@ if (codeWorking){
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
-
-<h1 align="center">Hi <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />, I'm cryptoblivious</h1>
-<h3 align="center">A junior software engineer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptoblivious&label=Profile%20views&color=0e75b6&style=flat" alt="cryptoblivious" /> </p>
 <p align="left"> <img src="https://img.shields.io/github/followers/cryptoblivious?style=social" alt="n followers" /> </p>
