@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
   &nbsp;
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="btc qr code">
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="btc qr code" width=200 height=200>
   <img src="https://chart.googleapis.com/chart?cht=qr&chl=ethereum%3A0xB0b63f5885fAa99Bc6cc17Ca45ca6F4133554329%3Famount%3D%26message%3DBuy%20Me%20A%20Bubble%20Tea&chs=180x180&choe=UTF-8&chld=L|2" rel="nofollow" alt="qr code"><a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a>
 </p>
 
