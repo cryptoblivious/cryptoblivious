@@ -114,9 +114,7 @@
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<p align="center">
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
-</p>
 
 
 ### 🌟 Technologies i use
