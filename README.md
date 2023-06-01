@@ -46,7 +46,8 @@
 
 ## GitHub Stats 📊
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true) ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ## Latest Tweet 🐦
 
