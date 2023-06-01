@@ -9,9 +9,9 @@
 
 🔭 I’m currently working on : [Edgar](https://github.com/cryptoblivious/Edgar)
 
-🌱 I’m currently learning : [![Flutter][flutter-img]][flutter-url]
+🌱 I’m currently learning : [![Flutter][flutter-img]][flutter-url][![Firebase][firebase-img]][firebase-url]
 
-⚡ Fun fact :  I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
+⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
 ## Projects 💫
 
@@ -179,5 +179,7 @@ Feel free to donate if you like what you see | BTC | ETH | |----------|---------
 [react-url]: https://reactjs.org/
 [flutter-img]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 [flutter-url]: https://flutter.dev/
+[firebase-img]: https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white
+[firebase-url]: https://firebase.google.com/
 [placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
 [placeholder-url]: https://perdu.com/
