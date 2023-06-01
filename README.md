@@ -24,7 +24,7 @@
 
 ### <img src="https://itsvg.in/logo.png" width="16px" /> Andrzej W | Portfolio
 
-[Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website.
+[Andrzej Wisniowski | Portfolio](https://andrzejw.com) is my portfolio website.
 
 <p align="right">
  <br/>
