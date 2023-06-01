@@ -32,9 +32,9 @@
 
 ## Donations 🪙
 
-| BTC | ETH | 
-|----------|----------| 
-| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
+| BTC | ETH | SOL |
+|----------|----------|----------| 
+| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) | (TBU) |
 
 ## Tech Stack 💻 (TBU)
 
