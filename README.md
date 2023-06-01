@@ -4,7 +4,7 @@
 ## Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> 
 ### I'm cryptoblivious, a junior software engineer from Canada.
 
-## About Me
+## About Me 🤓
 
 🔭 I’m currently working on : [Edgar](https://github.com/cryptoblivious/Edgar)
 
