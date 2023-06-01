@@ -30,14 +30,12 @@
 ## Tech Stack 💻
 
 
-<p align="center"> 
   <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
     <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
   </a>
     <a href="https://code.visualstudio.com/download" target="_blank">
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
-  </p>
 
 
 #### Languages
