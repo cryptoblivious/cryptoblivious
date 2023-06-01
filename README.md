@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on : [Edgar](https://github.com/cryptoblivious/Edgar)
 
-🌱 I’m currently learning : [![Flutter][flutter-img]][flutter-url][![Firebase][firebase-img]][firebase-url]
+🌱 I’m currently learning : [![Flutter][flutter-img]][flutter-url]&[![Firebase][firebase-img]][firebase-url]
 
 ⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
