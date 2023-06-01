@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on [Edgar](https://github.com/cryptoblivious/Edgar)
 
-🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]&[![Firebase][firebase-img]][firebase-url]
+🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url][![&][&-img]][![Firebase][firebase-img]][firebase-url]
 
 ⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
@@ -140,3 +140,4 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [windows-11-url]: https://www.microsoft.com/en-us/windows/windows-11
 [placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
 [placeholder-url]: https://perdu.com/
+[&-img]: https://img.shields.io/badge/&-FAB040?style=for-the-badge&logo=precommit&logoColor=red
