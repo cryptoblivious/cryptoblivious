@@ -2,37 +2,32 @@
 <h3 align="center">A junior software engineer from Canada</h3>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=cryptoblivious&icon=5&color=10)](https://visitcount.itsvg.in)
 
+## About Me:
 
-
-##  About Me:
 🔭 I’m currently working on The Last Stand
 
 🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]
 
 ⚡ Fun fact I use ChatGPT everyday
 
-
-
 ## Projects 💫
 
+### <img src="https://itsvg.in/logo.png" width="16px" /> Andrzej W | Portfolio
 
-### <img src="https://itsvg.in/logo.png" width="16px" />  Andrzej W | Portfolio 
 [Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
 
-### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" />  TLS : The Last Stand 
-[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
+### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" /> TLS : The Last Stand
 
+[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
 <p align="right">
  <br/>
 ... and working on few more projects 😉 </p>
 
-
-
 ## Tech Stack 💻
-
 
   <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
     <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
@@ -94,60 +89,51 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### ⌨️ Languages
-<a href="https://javascript.com/" target="_blank">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-<a href="https://python.org/" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-<a href="https://php.net/" target="_blank">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
-<a href="https://java.com/" target="_blank">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
-<a href="https://daringfireball.net/projects/markdown/" target="_blank">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
-<a href="https://gnu.org/software/bash/" target="_blank">![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
-<a href="https://jquery.com/" target="_blank">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)</a>
-<a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
-<a href="https://w3.org/TR/CSS/#css" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
-<a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
+
+<a href="https://javascript.com/" target="_blank">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a> <a href="https://python.org/" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a> <a href="https://php.net/" target="_blank">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a> <a href="https://java.com/" target="_blank">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> <a href="https://daringfireball.net/projects/markdown/" target="_blank">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a> <a href="https://gnu.org/software/bash/" target="_blank">![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a> <a href="https://jquery.com/" target="_blank">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</a> <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)</a> <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a> <a href="https://w3.org/TR/CSS/#css" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a> <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 
 ### 🌟 Certifications
+
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/aws-certified-cloud-practitioner.png" width=200 height=200>
 
 ## GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 ## GitHub Streaks 🔥
+
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## Latest Tweet 🐦  
+## Latest Tweet 🐦
+
 ![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)
 
 ## 🌐 Socials:
-<a href="https://andrzejw.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fuchsia&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/289173015080730624/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrzej.wisniowski.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrzej-wisniowski-77234376/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptoblivious) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptoblivious) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCTcXslba65WjAtPqwDMxt0g) 
+
+<a href="https://andrzejw.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fuchsia&style=for-the-badge" style="vertical-align:center" /></a> <a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a> <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/289173015080730624/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrzej.wisniowski.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrzej-wisniowski-77234376/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptoblivious) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptoblivious) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCTcXslba65WjAtPqwDMxt0g)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=cryptoblivious&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### Thanks for Visiting my GitHub Profile! 
+### Thanks for Visiting my GitHub Profile!
+
 <p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
 
 ---
 
-
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
 
 ---
-Feel free to donate if you like what you see
-| BTC | ETH |
-|----------|----------|
-| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
+
+Feel free to donate if you like what you see | BTC | ETH | |----------|----------| | ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [login]: ./C61/doc/imagesreadme/login.png
 [console-vite]: ./C61/doc/imagesreadme/consolevite.png
 [home]: ./C61/doc/imagesreadme/home.png
@@ -187,6 +173,7 @@ Feel free to donate if you like what you see
 [express-url]: https://expressjs.com/
 [react-img]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [react-url]: https://reactjs.org/
+[flutter-img]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[flutter-url]: https://flutter.dev/
 [placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
 [placeholder-url]: https://perdu.com/
-
