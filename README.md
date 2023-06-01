@@ -6,14 +6,17 @@
 <a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
-<div align="center">
- <span>BTC</span>
- <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/btc-qr-code2.png" alt="eth qr code" width="200" height="200"> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <span>ETH</span>
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/eth-qr-code2.png" alt="btc qr code" width="200" height="200">
 
-</div>
+<style>
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: none;
+  padding: 5px;
+}
+</style>
 
 | BTC | ETH |
 |----------|----------|
