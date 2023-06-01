@@ -8,8 +8,8 @@
 </p>
 
 | | BTC | ETH | |
-|----------|----------|----------|----------|
-| | ![BTC](btc-qr-code2.png)   | ![ETH](eth-qr-code2.png)    | |
+|----------|----------|
+| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
 
 ## Projects 💫
 
