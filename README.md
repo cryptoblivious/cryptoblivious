@@ -72,7 +72,7 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
-<p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
+Feel free to reach out to me if you have any questions or want to collaborate on a project!
 
 ---
 
@@ -80,7 +80,11 @@
 
 ---
 
-Feel free to donate if you like what you see | BTC | ETH | |----------|----------| | ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
+Feel free to donate if you like what you see 
+
+| BTC | ETH | 
+|----------|----------| 
+| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
