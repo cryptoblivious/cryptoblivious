@@ -7,11 +7,11 @@
 
 ## About Me:
 
-🔭 I’m currently working on [Edgar](https://github.com/cryptoblivious/Edgar)
+🔭 I’m currently working on : [Edgar](https://github.com/cryptoblivious/Edgar)
 
-🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]
+🌱 I’m currently learning : [![Flutter][flutter-img]][flutter-url]
 
-⚡ Fun fact I use ChatGPT everyday
+⚡ Fun fact :  I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
 ## Projects 💫
 
