@@ -33,12 +33,6 @@
 
 ## Tech Stack 💻 (TBU)
 
-  <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
-    <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
-  </a>
-    <a href="https://code.visualstudio.com/download" target="_blank">
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
-  </a>
 <a href="https://nodejs.org/" target="_blank">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://vitejs.dev/" target="_blank">![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</a>
 <a href="https://reactjs.org/" target="_blank">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
