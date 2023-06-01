@@ -1,7 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=cryptoblivious&icon=5&color=10)](https://visitcount.itsvg.in)
+
+
 ## Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> 
 ### I'm cryptoblivious, a junior software engineer from Canada.
-
-[![](https://visitcount.itsvg.in/api?id=cryptoblivious&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ## About Me
 
