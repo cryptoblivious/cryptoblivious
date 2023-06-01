@@ -140,4 +140,4 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [windows-11-url]: https://www.microsoft.com/en-us/windows/windows-11
 [placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
 [placeholder-url]: https://perdu.com/
-[&-img]: https://img.shields.io/badge/&-02569B?style=for-the-badge
+[&-img]: https://img.shields.io/badge/&-FF0000?style=for-the-badge
