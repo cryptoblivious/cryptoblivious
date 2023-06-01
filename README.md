@@ -7,7 +7,7 @@
 
 ## About Me:
 
-🔭 I’m currently working on The Last Stand
+🔭 I’m currently working on [Edgar](https://github.com/cryptoblivious/Edgar)
 
 🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]
 
@@ -15,13 +15,17 @@
 
 ## Projects 💫
 
+### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" /> TLS : The Last Stand
+
+[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
+
 ### <img src="https://itsvg.in/logo.png" width="16px" /> Andrzej W | Portfolio
 
 [Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
 
-### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" /> TLS : The Last Stand
+### <img src="https://itsvg.in/logo.png" width="16px" /> Edgar : Your Personal Chef
 
-[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
+[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff, </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
 
 <p align="right">
  <br/>
