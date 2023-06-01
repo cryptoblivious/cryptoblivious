@@ -80,7 +80,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 
 ---
 
-Feel free to donate if you like what you see 
+## Donations 💵
 
 | BTC | ETH | 
 |----------|----------| 
