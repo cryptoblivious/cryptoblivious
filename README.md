@@ -50,6 +50,11 @@
 
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
+
+## 🔝 Top Contributed Repo
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=cryptoblivious&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+
 ## Latest Tweet 🐦
 
 ![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)
@@ -61,10 +66,6 @@
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=cryptoblivious&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
 ### Thanks for Visiting my GitHub Profile!
 
