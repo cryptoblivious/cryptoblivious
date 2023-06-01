@@ -7,20 +7,10 @@
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-<style>
-table {
-  border-collapse: collapse;
-}
-
-td, th {
-  border: none;
-  padding: 5px;
-}
-</style>
 
 | BTC | ETH |
 |----------|----------|
-| ![Image 1](btc-qr-code2.png)   | ![Image 1](eth-qr-code2.png)    |
+| ![BTC](btc-qr-code2.png)   | ![ETH](eth-qr-code2.png)    |
 
 
 ## Projects 💫
