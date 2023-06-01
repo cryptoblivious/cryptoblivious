@@ -64,7 +64,7 @@
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=cryptoblivious&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=cryptoblivious&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
 ### Thanks for Visiting my GitHub Profile!
 
