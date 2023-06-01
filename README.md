@@ -108,9 +108,6 @@
 ### 🌟 Certifications
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/aws-certified-cloud-practitioner.png" width=200 height=200>
 
-<p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
-
-
 ## GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
@@ -121,17 +118,19 @@
 ## Latest Tweet 🐦  
 ![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)
 
-### Thanks for Visiting my GitHub Profile! Feel free to donate if you like what you see
+### Thanks for Visiting my GitHub Profile! 
+<p>Feel free to reach out to me if you have any questions or want to collaborate on a project!</p>
 
 ---
 
-| BTC | ETH |
-|----------|----------|
-| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
 
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
 
-
+---
+Feel free to donate if you like what you see
+| BTC | ETH |
+|----------|----------|
+| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/289173015080730624/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrzej.wisniowski.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrzej-wisniowski-77234376/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptoblivious) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptoblivious) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCTcXslba65WjAtPqwDMxt0g) 
