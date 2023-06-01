@@ -32,7 +32,7 @@
 
 ## Donations 🪙
 
-| BTC | ETH | SOL |
+| BTC | ETH | DOGE |
 |----------|----------|----------| 
 | ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) | (TBU) |
 
