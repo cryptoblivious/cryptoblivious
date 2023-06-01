@@ -9,11 +9,7 @@
 ##  About Me:
 🔭 I’m currently working on The Last Stand
 
-🌱 I’m currently learning [React](https://react.dev/)
-
-👨‍💻 All of my projects are available [here](https://andrzejw.com/)
-
-📄 Know about [my experiences](https://andrzejw.com/Files/2022-05_EN_Andrzej%20Wisniowski%20-%20CV%20(Software%20Dev).pdf)
+🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]
 
 ⚡ Fun fact I use ChatGPT everyday
 
@@ -151,4 +147,46 @@ Feel free to donate if you like what you see
 |----------|----------|
 | ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[login]: ./C61/doc/imagesreadme/login.png
+[console-vite]: ./C61/doc/imagesreadme/consolevite.png
+[home]: ./C61/doc/imagesreadme/home.png
+[onlinebox]: ./C61/doc/imagesreadme/onlinebox.png
+[privatechat]: ./C61/doc/imagesreadme/privatechat.png
+[globalchat]: ./C61/doc/imagesreadme/globalchat.png
+[heroespage]: ./C61/doc/imagesreadme/herospage.png
+[gamelobby]: ./C61/doc/imagesreadme/gamelobby.png
+[matchmakerdebug]: ./C61/doc/imagesreadme/matchmakerdebug.png
+[ingame]: ./C61/doc/imagesreadme/ingame.png
+[matchmaking]: ./C61/doc/imagesreadme/matchmaking.png
+[colyseus-img]: https://img.shields.io/badge/colyseus-A100FF?style=for-the-badge&logo=c&logoColor=white
+[colyseus-url]: https://colyseus.io/
+[vscode-img]: https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[vscode-url]: https://code.visualstudio.com/
+[phaser-img]: https://img.shields.io/badge/phaser%203-CEFF00?style=for-the-badge&logo=phaser&logoColor=white
+[phaser-url]: https://phaser.io/
+[nodedotjs-img]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[nodedotjs-url]: https://nodejs.org/
+[vite-img]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=v&logoColor=white
+[vite-url]: https://vitejs.dev/
+[insomnia-img]: https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white
+[insomnia-url]: https://insomnia.rest/
+[tailwind-img]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[tailwind-url]: https://tailwindcss.com/
+[yarn-img]: https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
+[yarn-url]: https://yarnpkg.com/
+[passport-img]: https://img.shields.io/badge/passport-34E27A?style=for-the-badge&logo=passport&logoColor=white
+[passport-url]: http://www.passportjs.org/
+[git-img]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-url]: https://git-scm.com/
+[typescript-img]: https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[typescript-url]: https://www.typescriptlang.org/
+[mongodb-img]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-url]: https://www.mongodb.com/
+[express-img]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white
+[express-url]: https://expressjs.com/
+[react-img]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
+[react-url]: https://reactjs.org/
+[placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
+[placeholder-url]: https://perdu.com/
 
