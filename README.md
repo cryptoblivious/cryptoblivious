@@ -15,10 +15,10 @@
 
 </div>
 
-| Header 1 | Header 2 |
+| BTC | ETH |
 |----------|----------|
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
+| ![Image 1](btc-qr-code2.png)   | ![Image 1](eth-qr-code2.png)    |
+
 
 ## Projects 💫
 
