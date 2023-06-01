@@ -23,7 +23,7 @@
 
 [Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
 
-### <img src="https://itsvg.in/logo.png" width="16px" /> Edgar : Your Personal Chef
+### 🧐 Edgar : Your Personal Chef
 
 [Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff, </> and Crafted with 🔥 and ❄️ by Andrzej Wisniowski.
 
