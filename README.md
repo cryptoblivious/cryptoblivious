@@ -6,9 +6,9 @@
 <a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="eth qr code" width=200 height=200>
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/c6d9395903ecaac0b362d5d8bce685f50f23dc95/eth-qr-code.svg" alt="btc qr code" width=200 height=200>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/3ea2784a35e63d56cf8b4593011d0bd0e2707313/btc-qr-code.svg" alt="eth qr code" width="200" height="200" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/c6d9395903ecaac0b362d5d8bce685f50f23dc95/eth-qr-code.svg" alt="btc qr code" width="200" height="200" style="margin-left: 20px;">
 </p>
 
 ## Projects 💫
