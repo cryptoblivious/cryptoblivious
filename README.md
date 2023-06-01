@@ -13,7 +13,7 @@
 
 ⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
-## Projects, crafted and </> with 🔥&❄️ by Me
+## Projects, crafted and </> with 🔥&❄️:
 
 ### 🧐 Edgar : Your Personal Chef
 
