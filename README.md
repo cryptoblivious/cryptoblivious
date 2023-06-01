@@ -7,10 +7,10 @@
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 <div align="center">
- <p>BTC</p>
+ <span>BTC</span>
  <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/btc-qr-code2.png" alt="eth qr code" width="200" height="200"> 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <p>ETH</p>
+ <span>ETH</span>
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/eth-qr-code2.png" alt="btc qr code" width="200" height="200">
 
 </div>
