@@ -2,7 +2,7 @@
 ---
 
 ### Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> 
-### I'm cryptoblivious, a junior software engineer from Canada.
+### I'm cryptoblivious, a Junior Software Engineer from Canada, working towards becoming a DevOps Engineer
 
 
 ## About Me 🤓
