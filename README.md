@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=cryptoblivious&icon=5&color=10)](https://visitcount.itsvg.in)
 
-## About Me:
+## About Me
 
 🔭 I’m currently working on : [Edgar](https://github.com/cryptoblivious/Edgar)
 
@@ -13,7 +13,7 @@
 
 ⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
-## Projects, crafted and </> with 🔥&❄️:
+## Projects </> with 🔥&❄️
 
 ### 🧐 Edgar : Your Personal Chef
 
