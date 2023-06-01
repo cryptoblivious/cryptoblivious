@@ -34,7 +34,7 @@
 
 | BTC | ETH | DOGE |
 |----------|----------|----------| 
-| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) | ![DOGE](doge-qr-code.png) |
+| ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
 
 ## Tech Stack 💻 (TBU)
 
