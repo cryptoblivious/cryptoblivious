@@ -7,10 +7,6 @@
 <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-| BTC | ETH |
-|----------|----------|
-| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
-
 ## Projects 💫
 
 
@@ -36,23 +32,8 @@
     <a href="https://code.visualstudio.com/download" target="_blank">
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
-
-## GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-
-## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-## Latest Tweet 🐦  
-![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)
-
-### Thanks for Visiting my GitHub Profile!
-
----
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
-
-
+  
+  
 ### 🌟 Technologies i use
 <a href="https://nodejs.org/" target="_blank">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://vitejs.dev/" target="_blank">![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</a>
@@ -128,6 +109,28 @@
 
 #  About Me:
 🔭 I’m currently working on The Last Stand<br><br>🌱 I’m currently learning [React](https://react.dev/)<br><br>👨‍💻 All of my projects are available ![here](https://andrzejw.com/)<br><br>📫 How to reach me andrzej.wis123@gmail.com<br><br>📄 Know about ![my experiences](https://andrzejw.com/Files/2022-05_EN_Andrzej%20Wisniowski%20-%20CV%20(Software%20Dev).pdf)<br><br>⚡ Fun fact I use ChatGPT everyday
+
+
+## GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+## Latest Tweet 🐦  
+![](https://gtce.itsvg.in/api?username=cryptoblivious&theme=jolly&response=false)
+
+### Thanks for Visiting my GitHub Profile! Feel free to donate if you like what you see
+
+---
+
+| BTC | ETH |
+|----------|----------|
+| ![BTC](btc-qr-code2.png) | ![ETH](eth-qr-code2.png) |
+
+<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
+
 
 
 ## 🌐 Socials:
