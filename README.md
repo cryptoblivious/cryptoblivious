@@ -13,19 +13,19 @@
 
 ⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
 
-## Projects 💫
+## Projects, crafted and </> with 🔥&❄️ by Me
 
 ### 🧐 Edgar : Your Personal Chef
 
-[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff;
+[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff.
 
 ### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" /> TLS : The Last Stand
 
-[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing;
+[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
 ### <img src="https://itsvg.in/logo.png" width="16px" /> Andrzej W | Portfolio
 
-[Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website;
+[Andrzej Wisniowski | Portfolio](https://andrzejw.com) is a portfolio website.
 
 <p align="right">
  <br/>
