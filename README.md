@@ -1,6 +1,8 @@
-<h1 align="center"> Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> </br> I'm cryptoblivious </h1>
-<h3 align="center">A junior software engineer from Canada</h3>
+## Hi, and welcome to my README!
+### I'm cryptoblivious, a junior software engineer from Canada.
 
+---
+<img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=cryptoblivious&icon=5&color=10)](https://visitcount.itsvg.in)
