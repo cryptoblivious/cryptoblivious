@@ -7,7 +7,12 @@
 
 
 ##  About Me:
-🔭 I’m currently working on The Last Stand<br><br>🌱 I’m currently learning [React](https://react.dev/)<br><br>👨‍💻 All of my projects are available ![here](https://andrzejw.com/)<br><br>📫 How to reach me andrzej.wis123@gmail.com<br><br>📄 Know about ![my experiences](https://andrzejw.com/Files/2022-05_EN_Andrzej%20Wisniowski%20-%20CV%20(Software%20Dev).pdf)<br><br>⚡ Fun fact I use ChatGPT everyday
+🔭 I’m currently working on The Last Stan
+🌱 I’m currently learning [React](https://react.dev/)
+👨‍💻 All of my projects are available ![here](https://andrzejw.com/)
+📫 How to reach me andrzej.wis123@gmail.com
+📄 Know about ![my experiences](https://andrzejw.com/Files/2022-05_EN_Andrzej%20Wisniowski%20-%20CV%20(Software%20Dev).pdf)
+⚡ Fun fact I use ChatGPT everyday
 
 
 
