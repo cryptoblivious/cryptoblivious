@@ -134,10 +134,10 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [react-url]: https://reactjs.org/
 [flutter-img]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 [flutter-url]: https://flutter.dev/
-[firebase-img]: https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white
+[firebase-img]: https://img.shields.io/badge/firebase-02569B?style=for-the-badge&logo=firebase&logoColor=white
 [firebase-url]: https://firebase.google.com/
 [windows-11-img]: https://img.shields.io/badge/windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [windows-11-url]: https://www.microsoft.com/en-us/windows/windows-11
 [placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
 [placeholder-url]: https://perdu.com/
-[&-img]: https://img.shields.io/badge/&-FAB040?style=for-the-badge
+[&-img]: https://img.shields.io/badge/&-02569B?style=for-the-badge
