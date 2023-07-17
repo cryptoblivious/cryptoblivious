@@ -7,7 +7,7 @@
 
 ## About Me 🤓
 
-🔭 I’m currently working on [Edgar](https://github.com/cryptoblivious/Edgar](https://cryptoblivious.github.io/Edgar/)
+🔭 I’m currently working on [Edgar](https://cryptoblivious.github.io/Edgar/)
 
 🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]![&-img][![Firebase][firebase-img]][firebase-url]
 
