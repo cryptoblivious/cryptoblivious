@@ -132,9 +132,9 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 
 [adobe-xd-img]: https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
 [adobe-xd-url]: https://www.adobe.com/ca/products/xd.html
-[android-studio-img]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+[android-studio-img]: https://img.shields.io/badge/Android_Studio-%2300f?style=for-the-badge&logo=android-studio&logoColor=white
 [android-studio-url]: https://developer.android.com/studio
-[ansible-img]: https://img.shields.io/badge/ansible-%275214.svg?style=for-the-badge&logo=ansible&logoColor=white
+[ansible-img]: https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white
 [ansible-url]: https://www.ansible.com/
 [aws-img]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
@@ -229,9 +229,9 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [npm-url]: https://www.npmjs.com/
 [numpy-img]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [numpy-url]: https://numpy.org/
-[passport-img]: https://img.shields.io/badge/passport-34E27A?style=for-the-badge&logo=passport&logoColor=white
+[passport-img]: https://img.shields.io/badge/passport-%2300f?style=for-the-badge&logo=passport&logoColor=white
 [passport-url]: http://www.passportjs.org/
-[phaser-img]: https://img.shields.io/badge/phaser%275214-CEFF00?style=for-the-badge&logo=phaser&logoColor=white
+[phaser-img]: https://img.shields.io/badge/phaser%203-CEFF00?style=for-the-badge&logo=phaser&logoColor=white
 [phaser-url]: https://phaser.io/
 [photoshop-img]: https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white
 [photoshop-url]: https://www.adobe.com/ca/products/photoshop.html
