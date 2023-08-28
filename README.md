@@ -40,7 +40,7 @@
 
 ## Certifications 🌟
 
-<img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/main/aws-certified-cloud-practitioner.png" width=200 height=200>
+![CCP][aws-ccp-accr]
 
 ## Tech Stack 💻 (TBU)
 
@@ -129,3 +129,4 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
 [portfolio-icon]: https://pbs.twimg.com/profile_images/1519463487667326976/-NMJkBmZ_400x400.jpg
+[aws-ccp-accr]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
