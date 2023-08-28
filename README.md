@@ -88,11 +88,11 @@
 
 ### IDEs & Editors 📝
 
-[![VSCode][vscode-img]][vscode-url] [![AndroidStudio][android-studio-img]][android-studio-url]
+[![VSCode][vscode-img]][vscode-url] [![AndroidStudio][android-studio-img]][android-studio-url] [![IntelliJ][intellij-img]][intellij-url] [![VisualStudio][visual-studio-img]][visual-studio-url] [![Pycharm][pycharm-img]][pycharm-url]
 
 ### Development Tools & Package Management 📦
 
-[![Yarn][yarn-img]][yarn-url] [![NPM][npm-img]][npm-url] [![Pip][pip-img]][pip-url] [![NPM][npm-img]][npm-url] [![Nodemon][nodemon-img]][nodemon-url] [![Webpack][webpack-img]][webpack-url] [![Prettier][prettier-img]][prettier-url] [![ESLint][eslint-img]][eslint-url]
+[![Yarn][yarn-img]][yarn-url] [![NPM][npm-img]][npm-url] [![Pip][pip-img]][pip-url] [![Nodemon][nodemon-img]][nodemon-url] [![Webpack][webpack-img]][webpack-url] [![Prettier][prettier-img]][prettier-url] [![ESLint][eslint-img]][eslint-url]
 
 ### Data Science & Analytics 📊
 
@@ -106,15 +106,15 @@
 
 [![Spotify][spotify-img]][spotify-url] [![AutoCAD][autocad-img]][autocad-url]
 
-## Things to Learn 📖
+### Languages 🈸
 
-[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url]
-
-## Languages 🈸 (TBU)
+[![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url]
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
-[![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url] [![CircleCI][circle-ci-img]][circle-ci-url]
+### Things to Learn 📖
+
+[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url]
 
 ## Random Dev Quote ✍️
 
@@ -211,6 +211,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [html5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [insomnia-img]: https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white
 [insomnia-url]: https://insomnia.rest/
+[intellij-img]: https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
+[intellij-url]: https://www.jetbrains.com/idea/
 [java-img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/
 [javascript-img]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -278,6 +280,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [prometheus-url]: https://prometheus.io/
 [puppet-img]: https://img.shields.io/badge/puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black
 [puppet-url]: https://puppet.com/
+[pycharm-img]: https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white
+[pycharm-url]: https://www.jetbrains.com/pycharm/
 [python-img]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
 [react-img]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
@@ -308,6 +312,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [typescript-url]: https://www.typescriptlang.org/
 [unity-img]: https://img.shields.io/badge/unity-100000?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com/
+[visual-studio-img]: https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white
+[visual-studio-url]: https://visualstudio.microsoft.com/
 [vite-img]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=v&logoColor=white
 [vite-url]: https://vitejs.dev/
 [vue-img]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
