@@ -1,6 +1,6 @@
-## Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />
+## Hi, I'm Andrzej Wisniowski! (aka cryptoblivious) <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />
 
-### I'm a Junior Software Engineer from Canada, working towards becoming a DevSecOps Engineer
+### A Junior Software Engineer from Canada, working towards becoming a DevSecOps Engineer
 
 ## About Me 🤓
 
@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]![&-img]![Firebase][firebase-img]][firebase-url]
 
-⚡ Fun fact : I use [ChatGPT](https://chat.openai.com/) (almost) everyday!
+⚡ Fun fact : I use [![ChatGPT][chatgpt-img]][chatgpt-url] (almost) every day!
 
 ## Socials 🌐 (TBU)
 
