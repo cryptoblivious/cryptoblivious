@@ -40,7 +40,7 @@
 
 ## Certifications 🌟
 
-![CCP][aws-ccp-accr]
+[![CCP][aws-ccp-img]][aws-ccp-url]
 
 ## Tech Stack 💻 (TBU)
 
@@ -129,4 +129,5 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
 [portfolio-icon]: https://pbs.twimg.com/profile_images/1519463487667326976/-NMJkBmZ_400x400.jpg
-[aws-ccp-accr]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
+[aws-ccp-icon]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
+[aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
