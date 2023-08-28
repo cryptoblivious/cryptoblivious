@@ -10,25 +10,23 @@
 
 ⚡ Fun fact : I use [![ChatGPT][chatgpt-img]][chatgpt-url] (almost) every day!
 
-## Socials 🌐 (TBU)
+## Socials 🌐
 
 [![Portfolio][portfolio-img]][portfolio-url] [![LinkedIn][linkedin-img]][linkedin-url] [![Twitter][twitter-img]][twitter-url] [![Discord][discord-img]][discord-url] [![Facebook][facebook-img]][facebook-url] [![Reddit][reddit-img]][reddit-url] [![YouTube][youtube-img]][youtube-url] [![Spotify][spotify-img]][spotify-url]
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/289173015080730624/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrzej.wisniowski.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrzej-wisniowski-77234376/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptoblivious) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptoblivious) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCTcXslba65WjAtPqwDMxt0g)
+## Projects 🤖
 
-## Projects </> with 🔥&❄️
+### 🧑‍🍳 Edgar : Your Personal Chef
 
-### 🧐 Edgar : Your Personal Chef
+[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff.
 
-[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff
+### ![TheLastStand][the-last-stand-img] TLS : The Last Stand
 
-### <img src="https://tls.woodchuckgames.com/assets/icons/cyberpunk.png" width="16px" /> TLS : The Last Stand
+[TLS : The Last Stand][the-last-stand-url] is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
-[TLS : The Last Stand](https://tls.woodchuckgames.com) is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing
+### ![Portfolio][portfolio-img] Andrzej W | Portfolio
 
-### <img src="https://itsvg.in/logo.png" width="16px" /> Andrzej W | Portfolio
-
-[Andrzej Wisniowski | Portfolio](https://andrzejw.com) is my portfolio website
+[Andrzej Wisniowski | Portfolio][portfolio-url] is my portfolio website.
 
 <p align="right">
  <br/>
@@ -128,3 +126,5 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [youtube-img]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge
 [spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
+[the-last-stand-img]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
+[the-last-stand-url]: https://tls.andrzejw.com
