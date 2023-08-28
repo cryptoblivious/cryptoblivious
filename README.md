@@ -18,13 +18,13 @@
 
 ### 🧑‍🍳 Edgar : Your Personal Chef
 
-[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted software that helps you with a bunch of food related stuff.
+[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted mobile app that helps you with a bunch of food related stuff.
 
-### ![TheLastStand][the-last-stand-img] TLS : The Last Stand
+### ![TheLastStand][the-last-stand-icon] TLS : The Last Stand
 
 [TLS : The Last Stand][the-last-stand-url] is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
-### ![Portfolio][portfolio-img] Andrzej W | Portfolio
+### ![Portfolio][portfolio-icon] Andrzej W | Portfolio
 
 [Andrzej Wisniowski | Portfolio][portfolio-url] is my portfolio website.
 
@@ -126,5 +126,6 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [youtube-img]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge
 [spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
-[the-last-stand-img]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
+[the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
+[portfolio-icon]: https://pbs.twimg.com/profile_images/1519463487667326976/-NMJkBmZ_400x400.jpg
