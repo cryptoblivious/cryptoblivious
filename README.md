@@ -50,7 +50,7 @@
 
 [![Insomnia][insomnia-img]][insomnia-url]
 
-### Authentication
+### Authentication 🔍
 
 [![Passport][passport-img]][passport-url] [![FirebaseAuth][firebase-auth-img]][firebase-auth-url]
 
@@ -104,7 +104,7 @@
 
 ### Misc 🦾
 
-[![Spotify][spotify-img]][spotify-url]
+[![Spotify][spotify-img]][spotify-url] [![AutoCAD][autocad-img]][autocad-url]
 
 ## Things to Learn 📖
 
@@ -114,7 +114,7 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
-[![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url]
+[![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url]
 
 ## Random Dev Quote ✍️
 
@@ -142,6 +142,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [android-studio-url]: https://developer.android.com/studio
 [ansible-img]: https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white
 [ansible-url]: https://www.ansible.com/
+[autocad-img]: https://img.shields.io/badge/autocad-00457C?style=for-the-badge&logo=autodesk&logoColor=white
+[autocad-url]: https://www.autodesk.com/products/autocad/overview
 [aws-img]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
 [aws-ccp-badge]: aws-certified-cloud-practitioner.png
@@ -161,6 +163,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [csharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [css3-img]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[dart-img]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
+[dart-url]: https://dart.dev/
 [datadog-img]: https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white
 [datadog-url]: https://www.datadoghq.com/
 [discord-img]: https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge
@@ -211,6 +215,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [jenkins-url]: https://www.jenkins.io/
 [jira-img]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
 [jira-url]: https://www.atlassian.com/software/jira
+[json-img]: https://img.shields.io/badge/json-%23232F3E.svg?style=for-the-badge&logo=json&logoColor=white
+[json-url]: https://www.json.org/json-en.html
 [kubernetes-img]: https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 [kubernetes-url]: https://kubernetes.io/
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
@@ -278,6 +284,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [socket-url]: https://socket.io/
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
 [spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
+[sql-img]: https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white
+[sql-url]: https://www.w3schools.com/sql/
 [sqlite-img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [sqlite-url]: https://sqlite.org/
 [tailwind-img]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
