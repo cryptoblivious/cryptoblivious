@@ -36,12 +36,6 @@
  <br/>
 ... and working on few more projects 😉 </p>
 
-## Donations 🪙
-
-| BTC                     | ETH                     | DOGE                      |
-| ----------------------- | ----------------------- | ------------------------- |
-| ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
-
 ## Certifications 🌟
 
 [![CCP][aws-ccp-badge]][aws-ccp-url] ![SAA][aws-saa-badge]
@@ -63,6 +57,12 @@
 ## Random Dev Quote ✍️
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Donations 🪙
+
+| BTC                     | ETH                     | DOGE                      |
+| ----------------------- | ----------------------- | ------------------------- |
+| ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
 
 ### Thanks for Visiting my GitHub Profile!
 
@@ -132,9 +132,9 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
-[aws-ccp-badge]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
+[aws-ccp-badge]: aws-certified-cloud-practitioner.png
 [aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
-[aws-saa-badge]: https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png
+[aws-saa-badge]: aws-certified-saa.png
 [magix-icon]: avatarOnIce.ico
 [magix-url]: https://magix.andrzejw.com
 [edgar-icon]: edgar.png
