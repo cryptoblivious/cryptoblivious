@@ -28,7 +28,7 @@
 
 [Magix : The Last Cardbender][magix-url] is a card game where you play as a cardbender, a magician who can play cards to defeat your opponent.
 
-### ![Portfolio][portfolio-icon] Andrzej W | Portfolio
+### ![Portfolio](bear.ico) Andrzej W | Portfolio
 
 [Andrzej Wisniowski | Portfolio][portfolio-url] is my portfolio website.
 
@@ -132,7 +132,6 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
-[portfolio-icon]: https://pbs.twimg.com/profile_images/1519463487667326976/-NMJkBmZ_400x400.jpg
 [aws-ccp-badge]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
 [aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
 [magix-icon]: https://magix.andrzejw.com/assets/icons/magix.png
