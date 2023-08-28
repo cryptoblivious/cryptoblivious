@@ -4,7 +4,7 @@
 
 ## About Me 🤓
 
-🔭 I’m currently working on ![Edgar][edgar-url]
+🔭 I’m currently working on [Edgar][edgar-url]
 
 🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url][![Firebase][firebase-img]][firebase-url]
 
@@ -12,7 +12,7 @@
 
 ## Socials 🌐
 
-[![Portfolio][portfolio-img]][portfolio-url] [![LinkedIn][linkedin-img]][linkedin-url] [![Twitter][twitter-img]][twitter-url] [![Discord][discord-img]][discord-url] [![Facebook][facebook-img]][facebook-url] [![Reddit][reddit-img]][reddit-url] [![YouTube][youtube-img]][youtube-url] [![Spotify][spotify-img]][spotify-url]
+[![Portfolio][portfolio-img]][portfolio-url] [![LinkedIn][linkedin-img]][linkedin-url] [![Messenger][messenger-img][messenger-url] [![Discord][discord-img]][discord-url] [![Facebook][facebook-img]][facebook-url] [![Reddit][reddit-img]][reddit-url] [![YouTube][youtube-img]][youtube-url] [![Spotify][spotify-img]][spotify-url] [![Twitter][twitter-img]][twitter-url]
 
 ## Projects 🤖
 
@@ -140,3 +140,5 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [edgar-icon]: edgar.png
 [edgar-url]: https://github.com/cryptoblivious/Edgar
 [portfolio-icon]: bear.ico
+[messenger-img]: https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge
+[messenger-url]: https://m.me/andrzej.wisniowski.33
