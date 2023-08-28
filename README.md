@@ -108,7 +108,7 @@
 
 ## Things to Learn 📖
 
-[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url]
+[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url]
 
 ## Languages 🈸 (TBU)
 
@@ -157,6 +157,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [colyseus-url]: https://colyseus.io/
 [chatgpt-img]: https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white
 [chatgpt-url]: https://chat.openai.com/
+[chef-img]: https://img.shields.io/badge/chef-%23F37626.svg?style=for-the-badge&logo=chef&logoColor=white
+[chef-url]: https://www.chef.io/
 [cpp-img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white
 [cpp-url]: https://isocpp.org/
 [csharp-img]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
@@ -272,6 +274,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [prettier-url]: https://prettier.io/
 [prometheus-img]: https://img.shields.io/badge/prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white
 [prometheus-url]: https://prometheus.io/
+[puppet-img]: https://img.shields.io/badge/puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black
+[puppet-url]: https://puppet.com/
 [python-img]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
 [react-img]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
