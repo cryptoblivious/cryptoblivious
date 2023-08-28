@@ -134,6 +134,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [adobe-xd-url]: https://www.adobe.com/ca/products/xd.html
 [android-studio-img]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
 [android-studio-url]: https://developer.android.com/studio
+[ansible-img]: https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white
+[ansible-url]: https://www.ansible.com/
 [aws-img]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
 [aws-ccp-badge]: aws-certified-cloud-practitioner.png
@@ -143,8 +145,12 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [colyseus-url]: https://colyseus.io/
 [chatgpt-img]: https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white
 [chatgpt-url]: https://chat.openai.com/
+[datadog-img]: https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white
+[datadog-url]: https://www.datadoghq.com/
 [discord-img]: https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge
 [discord-url]: https://discordapp.com/users/289173015080730624
+[docker-img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com/
 [edgar-icon]: edgar.png
 [edgar-url]: https://github.com/cryptoblivious/Edgar
 [eslint-img]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
@@ -166,9 +172,17 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [github-copilot-img]: https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=github&logoColor=white
 [github-copilot-url]: https://github.com/features/copilot
 [git-img]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[gitlab-img]: https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
+[gitlab-url]: https://gitlab.com/
 [git-url]: https://git-scm.com/
 [insomnia-img]: https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white
 [insomnia-url]: https://insomnia.rest/
+[jenkins-img]: https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
+[jenkins-url]: https://www.jenkins.io/
+[jira-img]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
+[jira-url]: https://www.atlassian.com/software/jira
+[kubernetes-img]: https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+[kubernetes-url]: https://kubernetes.io/
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/andrzej-wisniowski-77234376
 [linux-img]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
@@ -177,6 +191,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [magix-url]: https://magix.andrzejw.com
 [mariadb-img]: https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white
 [mariadb-url]: https://mariadb.org/
+[matplotlib-img]: https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white
+[matplotlib-url]: https://matplotlib.org/
 [messenger-img]: https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge
 [messenger-url]: https://m.me/andrzej.wisniowski.33
 [mongodb-img]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white
@@ -226,6 +242,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [sqlite-url]: https://sqlite.org/
 [tailwind-img]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
 [tailwind-url]: https://tailwindcss.com/
+[terraform-img]: https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white
+[terraform-url]: https://www.terraform.io/
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
 [twitter-img]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
