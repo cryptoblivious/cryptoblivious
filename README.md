@@ -46,7 +46,13 @@
 
 [![Git][git-img]][git-url] [![GitHub][github-img]][github-url]
 
-### DevSecOps 🧠
+### API Testing 🧪
+
+[![Insomnia][insomnia-img]][insomnia-url]
+
+### Authentication
+
+[![Passport][passport-img]][passport-url] [![FirebaseAuth][firebase-auth-img]][firebase-auth-url]
 
 ### Collaboration 🤝
 
@@ -62,7 +68,7 @@
 
 ### Mobile Development 💡
 
-[![Flutter][flutter-img]][flutter-url] [![Firebase][firebase-img]][firebase-url] [![AndroidStudio][android-studio-img]][android-studio-url]
+[![Flutter][flutter-img]][flutter-url] [![Firebase][firebase-img]][firebase-url] [![AndroidStudio][android-studio-img]][android-studio-url] [![GooglePlayConsole][google-play-console-img]][google-play-console-url]
 
 ### Game Development 🎮
 
@@ -173,6 +179,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [figma-url]: https://figma.com/
 [firebase-img]: https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 [firebase-url]: https://firebase.google.com/
+[firebase-auth-img]: https://img.shields.io/badge/firebase_auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+[firebase-auth-url]: https://firebase.google.com/docs/auth
 [firestore-img]: https://img.shields.io/badge/firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 [firestore-url]: https://firebase.google.com/docs/firestore
 [flutter-img]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
@@ -187,6 +195,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [gitlab-img]: https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
 [gitlab-url]: https://gitlab.com/
 [git-url]: https://git-scm.com/
+[google-play-console-img]: https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white
+[google-play-console-url]: https://play.google.com/console/about/
 [html5-img]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [insomnia-img]: https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white
