@@ -16,7 +16,7 @@
 
 ## Projects 🤖
 
-### 🧑‍🍳 Edgar : Your Personal Chef
+### ![Edgar](edgar.png) Edgar : Your Personal Chef
 
 [Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted mobile app that helps you with a bunch of food related stuff.
 
