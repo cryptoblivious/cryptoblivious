@@ -1,6 +1,6 @@
 ## Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> 
 
-### I'm a Junior Software Engineer from Canada, working towards becoming a DevOps Engineer
+### I'm a Junior Software Engineer from Canada, working towards becoming a DevSecOps Engineer
 
 
 ## About Me 🤓
