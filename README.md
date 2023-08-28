@@ -30,9 +30,11 @@
 
 ## Certifications 🌟
 
-[![CCP][aws-ccp-badge]][aws-ccp-url] ![SAA][aws-saa-badge]
+[![CCP][aws-ccp-badge]][aws-ccp-url]
 
-## Tech Stack 💻 (TBU)
+<!-- ![SAA][aws-saa-badge] -->
+
+## Tech Stack 💻
 
 ### Productivity Acceleration 🚀
 
@@ -49,6 +51,10 @@
 ### API Testing 🧪
 
 [![Insomnia][insomnia-img]][insomnia-url]
+
+### Web APIs 🌐
+
+[![OpenAIAPI][openai-api-img]][openai-api-url] [![SpotifyAPI][spotify-api-img]][spotify-api-url]
 
 ### Authentication 🔍
 
@@ -102,10 +108,6 @@
 
 [![AdobeXD][adobe-xd-img]][adobe-xd-url] [![Figma][figma-img]][figma-url] [![Photoshop][photoshop-img]][photoshop-url]
 
-### Misc 🦾
-
-[![Spotify][spotify-img]][spotify-url] [![AutoCAD][autocad-img]][autocad-url]
-
 ### Languages 🈸
 
 [![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url]
@@ -115,6 +117,10 @@
 ### Things to Learn 📖
 
 [![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url]
+
+### Misc 🦾
+
+[![AutoCAD][autocad-img]][autocad-url]
 
 ## Random Dev Quote ✍️
 
@@ -255,6 +261,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [npm-url]: https://www.npmjs.com/
 [numpy-img]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [numpy-url]: https://numpy.org/
+[openai-api-img]: https://img.shields.io/badge/OpenAI_API-FF6600?style=for-the-badge&logo=openai&logoColor=white
+[openai-api-url]: https://platform.openai.com/
 [passport-img]: https://img.shields.io/badge/passport-47A248?style=for-the-badge&logo=passport&logoColor=white
 [passport-url]: http://www.passportjs.org/
 [phaser-img]: https://img.shields.io/badge/phaser%203-CEFF00?style=for-the-badge&logo=phaser&logoColor=white
@@ -292,8 +300,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [reddit-url]: https://reddit.com/user/cryptoblivious
 [socket-img]: https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
 [socket-url]: https://socket.io/
-[spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
-[spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
+[spotify-api-img]: https://img.shields.io/badge/Spotify_API-1ED760?logo=spotify&logoColor=white&style=for-the-badge
+[spotify-api-url]: https://developer.spotify.com/documentation/web-api/
 [sql-img]: https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white
 [sql-url]: https://www.w3schools.com/sql/
 [sqlite-img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
