@@ -124,7 +124,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [facebook-img]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge
 [reddit-url]: https://reddit.com/user/cryptoblivious
 [reddit-img]: https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge
-[youtube-url]: https://www.youtube.com/channel/UC7Q6XKjzQzQb0ZM9XZqQY0w
+[youtube-url]: https://www.youtube.com/channel/UCTcXslba65WjAtPqwDMxt0g
 [youtube-img]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge
 [spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
