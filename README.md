@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=cryptoblivious&icon=5&color=10)](https://visitcount.itsvg.in)
 
+## Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />
 
-## Hi, and welcome to my README! <img src="https://img.sshort.net/i/EZlK.gif" width="30px" /> 
 ### I'm cryptoblivious, a junior software engineer from Canada.
 
 ## About Me 🤓
@@ -32,8 +32,8 @@
 
 ## Donations 🪙
 
-| BTC | ETH | DOGE |
-|----------|----------|----------| 
+| BTC                     | ETH                     | DOGE                      |
+| ----------------------- | ----------------------- | ------------------------- |
 | ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
 
 ## Tech Stack 💻 (TBU)
@@ -54,11 +54,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 
-
 ## GitHub Streaks 🔥
 
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=cryptoblivious&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
 
 ## Top Contributed Repo 🔝
 
@@ -84,21 +82,8 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 
 <img src="https://raw.githubusercontent.com/cryptoblivious/cryptoblivious/70b1e16f515748e1b0800f59d7216970a4e24f38/github-contribution-grid-snake.svg">
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[login]: ./C61/doc/imagesreadme/login.png
-[console-vite]: ./C61/doc/imagesreadme/consolevite.png
-[home]: ./C61/doc/imagesreadme/home.png
-[onlinebox]: ./C61/doc/imagesreadme/onlinebox.png
-[privatechat]: ./C61/doc/imagesreadme/privatechat.png
-[globalchat]: ./C61/doc/imagesreadme/globalchat.png
-[heroespage]: ./C61/doc/imagesreadme/herospage.png
-[gamelobby]: ./C61/doc/imagesreadme/gamelobby.png
-[matchmakerdebug]: ./C61/doc/imagesreadme/matchmakerdebug.png
-[ingame]: ./C61/doc/imagesreadme/ingame.png
-[matchmaking]: ./C61/doc/imagesreadme/matchmaking.png
 [colyseus-img]: https://img.shields.io/badge/colyseus-A100FF?style=for-the-badge&logo=c&logoColor=white
 [colyseus-url]: https://colyseus.io/
 [vscode-img]: https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
@@ -135,3 +120,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [windows-11-url]: https://www.microsoft.com/en-us/windows/windows-11
 [placeholder-img]: https://img.shields.io/badge/et_plus_encore-FAB040?style=for-the-badge&logo=precommit&logoColor=red
 [placeholder-url]: https://perdu.com/
+[chatgpt-url]: https://chat.openai.com/
+[chatgpt-img]: https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white
+[github-copilot-url]: https://github.com/features/copilot
+[github-copilot-img]: https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=github&logoColor=white
