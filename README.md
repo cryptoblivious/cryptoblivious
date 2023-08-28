@@ -1,6 +1,6 @@
 ## Hi, I'm Andrzej Wisniowski! (aka cryptoblivious) <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />
 
-### A Junior Software Engineer from Canada, working towards becoming a DevSecOps Engineer
+### A Junior Software Engineer from Canada, working towards becoming a DevSecOps Engineer.
 
 ## Socials 🌐
 
