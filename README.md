@@ -12,9 +12,9 @@
 
 ## Socials 🌐 (TBU)
 
-[![Portfolio][portfolio-img]][portfolio-url]
+[![Portfolio][portfolio-img]][portfolio-url] [![LinkedIn][linkedin-img]][linkedin-url] [![Twitter][twitter-img]][twitter-url] [![Discord][discord-img]][discord-url] [![Facebook][facebook-img]][facebook-url] [![Reddit][reddit-img]][reddit-url] [![YouTube][youtube-img]][youtube-url] [![Spotify][spotify-img]][spotify-url]
 
-<a href="https://andrzejw.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fuchsia&style=for-the-badge" style="vertical-align:center" /></a> <a href="https://twitter.com/cryptoblivious" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a> <a href="https://linkedin.com/in/andrzej-wisniowski-77234376" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/289173015080730624/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrzej.wisniowski.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrzej-wisniowski-77234376/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptoblivious) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptoblivious) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCTcXslba65WjAtPqwDMxt0g)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/289173015080730624/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrzej.wisniowski.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrzej-wisniowski-77234376/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptoblivious) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptoblivious) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCTcXslba65WjAtPqwDMxt0g)
 
 ## Projects </> with 🔥&❄️
 
@@ -114,3 +114,17 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [github-copilot-img]: https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=github&logoColor=white
 [portfolio-url]: https://andrzejw.com/
 [portfolio-img]: https://img.shields.io/badge/Portfolio-FFD9EB?logo=vercel&logoColor=fuchsia&style=for-the-badge
+[linkedin-url]: https://linkedin.com/in/andrzej-wisniowski-77234376
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
+[twitter-url]: https://twitter.com/cryptoblivious
+[twitter-img]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
+[discord-url]: https://discordapp.com/users/289173015080730624
+[discord-img]: https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge
+[facebook-url]: https://facebook.com/andrzej.wisniowski.33
+[facebook-img]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge
+[reddit-url]: https://reddit.com/user/cryptoblivious
+[reddit-img]: https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge
+[youtube-url]: https://www.youtube.com/channel/UC7Q6XKjzQzQb0ZM9XZqQY0w
+[youtube-img]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge
+[spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
+[spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
