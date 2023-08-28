@@ -70,7 +70,7 @@
 
 ### Databases 💽
 
-[![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![MongoDB][mongodb-img]][mongodb-url] [![Postgres][postgres-img]][postgres-url]
+[![Firestore][firestore-img]][firestore-url] [![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![MongoDB][mongodb-img]][mongodb-url] [![Postgres][postgres-img]][postgres-url]
 
 ### Cloud Computing ☁️
 
@@ -173,6 +173,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [figma-url]: https://figma.com/
 [firebase-img]: https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 [firebase-url]: https://firebase.google.com/
+[firestore-img]: https://img.shields.io/badge/firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+[firestore-url]: https://firebase.google.com/docs/firestore
 [flutter-img]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 [flutter-url]: https://flutter.dev/
 [gcp-img]: https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
