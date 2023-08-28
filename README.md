@@ -115,7 +115,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [github-copilot-url]: https://github.com/features/copilot
 [github-copilot-img]: https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=github&logoColor=white
 [portfolio-url]: https://andrzejw.com/
-[portfolio-img]: https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fuchsia&style=for-the-badge
+[portfolio-img]: https://img.shields.io/badge/Portfolio-8a008a?logo=vercel&logoColor=fuchsia&style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/andrzej-wisniowski-77234376
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 [twitter-url]: https://twitter.com/cryptoblivious
