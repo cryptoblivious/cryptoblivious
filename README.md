@@ -114,7 +114,7 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
-[![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url]
+[![Markdown][markdown-img]][markdown-url] [![PHP][php-img]][php-url] [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url] [![CircleCI][circle-ci-img]][circle-ci-url]
 
 ## Random Dev Quote ✍️
 
@@ -159,6 +159,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [chatgpt-url]: https://chat.openai.com/
 [chef-img]: https://img.shields.io/badge/chef-%23F37626.svg?style=for-the-badge&logo=chef&logoColor=white
 [chef-url]: https://www.chef.io/
+[circle-ci-img]: https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white
+[circle-ci-url]: https://circleci.com/
 [cpp-img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white
 [cpp-url]: https://isocpp.org/
 [csharp-img]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
