@@ -20,9 +20,9 @@
 
 [Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted mobile app that helps you with a bunch of food related stuff.
 
-### ![TheLastStand][the-last-stand-icon] TLS : The Last Stand
+### ![TheLastStand][the-last-stand-icon] The Last Stand
 
-[TLS : The Last Stand][the-last-stand-url] is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
+[The Last Stand][the-last-stand-url] is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
 ### ![Magix](avatarOnIce.ico) Magix : The Last Cardbender
 
