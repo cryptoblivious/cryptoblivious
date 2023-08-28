@@ -4,7 +4,7 @@
 
 ## About Me 🤓
 
-🔭 I’m currently working on [Edgar](https://cryptoblivious.github.io/Edgar/)
+🔭 I’m currently working on ![Edgar][edgar-url]
 
 🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url][![Firebase][firebase-img]][firebase-url]
 
@@ -16,19 +16,19 @@
 
 ## Projects 🤖
 
-### ![Edgar](edgar.png) Edgar : Your Personal Chef
+### [![Edgar][edgar-icon]][edgar-url] Edgar : Your Personal Chef
 
-[Edgar](https://github.com/cryptoblivious/Edgar) is an AI-assisted mobile app that helps you with a bunch of food related stuff.
+![Edgar][edgar-url] is an AI-assisted mobile app that helps you with a bunch of food related stuff.
 
-### ![TheLastStand][the-last-stand-icon] The Last Stand
+### [![TheLastStand][the-last-stand-icon]][the-last-stand-url] The Last Stand
 
 [The Last Stand][the-last-stand-url] is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
-### ![Magix](avatarOnIce.ico) Magix : The Last Cardbender
+### [![Magix][magix-icon]][magix-url] Magix : The Last Cardbender
 
 [Magix : The Last Cardbender][magix-url] is a card game where you play as a cardbender, a magician who can play cards to defeat your opponent.
 
-### ![Portfolio](bear.ico) Andrzej W | Portfolio
+### [![Portfolio][portfolio-icon]][portfolio-url] Andrzej W | Portfolio
 
 [Andrzej Wisniowski | Portfolio][portfolio-url] is my portfolio website.
 
@@ -134,5 +134,8 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [the-last-stand-url]: https://tls.andrzejw.com
 [aws-ccp-badge]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
 [aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
-[magix-icon]: https://magix.andrzejw.com/assets/icons/magix.png
+[magix-icon]: avatarOnIce.ico
 [magix-url]: https://magix.andrzejw.com
+[edgar-icon]: edgar.png
+[edgar-url]: https://github.com/cryptoblivious/Edgar
+[portfolio-icon]: bear.ico
