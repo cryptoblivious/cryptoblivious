@@ -80,7 +80,7 @@
 
 [![Netlify][netlify-img]][netlify-url]
 
-## IDEs & Editors 📝
+### IDEs & Editors 📝
 
 [![VSCode][vscode-img]][vscode-url] [![AndroidStudio][android-studio-img]][android-studio-url]
 
@@ -102,7 +102,7 @@
 
 ## Things to Learn 📖
 
-[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url]
+[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url]
 
 ## Languages 🈸 (TBU)
 
@@ -134,13 +134,15 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [adobe-xd-url]: https://www.adobe.com/ca/products/xd.html
 [android-studio-img]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
 [android-studio-url]: https://developer.android.com/studio
-[ansible-img]: https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white
+[ansible-img]: https://img.shields.io/badge/ansible-%275214.svg?style=for-the-badge&logo=ansible&logoColor=white
 [ansible-url]: https://www.ansible.com/
 [aws-img]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
 [aws-ccp-badge]: aws-certified-cloud-practitioner.png
 [aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
 [aws-saa-badge]: aws-certified-saa.png
+[azure-img]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
+[azure-url]: https://azure.microsoft.com/en-ca/
 [bash-img]: https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
 [colyseus-img]: https://img.shields.io/badge/colyseus-A100FF?style=for-the-badge&logo=c&logoColor=white
@@ -229,7 +231,7 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [numpy-url]: https://numpy.org/
 [passport-img]: https://img.shields.io/badge/passport-34E27A?style=for-the-badge&logo=passport&logoColor=white
 [passport-url]: http://www.passportjs.org/
-[phaser-img]: https://img.shields.io/badge/phaser%203-CEFF00?style=for-the-badge&logo=phaser&logoColor=white
+[phaser-img]: https://img.shields.io/badge/phaser%275214-CEFF00?style=for-the-badge&logo=phaser&logoColor=white
 [phaser-url]: https://phaser.io/
 [photoshop-img]: https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white
 [photoshop-url]: https://www.adobe.com/ca/products/photoshop.html
