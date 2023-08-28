@@ -24,6 +24,10 @@
 
 [TLS : The Last Stand][the-last-stand-url] is a Smash-like online multiplayer game where heroes pit their will and grit against each other to be the last standing.
 
+### ![Magix](avatarOnIce.ico) Magix : The Last Cardbender
+
+[Magix : The Last Cardbender][magix-url] is a card game where you play as a cardbender, a magician who can play cards to defeat your opponent.
+
 ### ![Portfolio][portfolio-icon] Andrzej W | Portfolio
 
 [Andrzej Wisniowski | Portfolio][portfolio-url] is my portfolio website.
@@ -40,7 +44,7 @@
 
 ## Certifications 🌟
 
-[![CCP][aws-ccp-img]][aws-ccp-url]
+[![CCP][aws-ccp-badge]][aws-ccp-url]
 
 ## Tech Stack 💻 (TBU)
 
@@ -129,5 +133,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
 [the-last-stand-url]: https://tls.andrzejw.com
 [portfolio-icon]: https://pbs.twimg.com/profile_images/1519463487667326976/-NMJkBmZ_400x400.jpg
-[aws-ccp-icon]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
+[aws-ccp-badge]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
 [aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
+[magix-icon]: https://magix.andrzejw.com/assets/icons/magix.png
+[magix-url]: https://magix.andrzejw.com
