@@ -18,7 +18,7 @@
 
 ### [![Edgar][edgar-icon]][edgar-url] Edgar : Your Personal Chef
 
-![Edgar][edgar-url] is an AI-assisted mobile app that helps you with a bunch of food related stuff.
+[Edgar][edgar-url] is an AI-assisted mobile app that helps you with a bunch of food related stuff.
 
 ### [![TheLastStand][the-last-stand-icon]][the-last-stand-url] The Last Stand
 
@@ -26,7 +26,7 @@
 
 ### [![Magix][magix-icon]][magix-url] Magix : The Last Cardbender
 
-[Magix : The Last Cardbender][magix-url] is a card game where you play as a cardbender, a magician who can play cards to defeat your opponent.
+[Magix : The Last Cardbender][magix-url] is a card game where you play as a cardbender, a being who can play cards to defeat your opponent.
 
 ### [![Portfolio][portfolio-icon]][portfolio-url] Andrzej W | Portfolio
 
@@ -44,7 +44,7 @@
 
 ## Certifications 🌟
 
-[![CCP][aws-ccp-badge]][aws-ccp-url]
+[![CCP][aws-ccp-badge]][aws-ccp-url] ![SAA][aws-saa-badge]
 
 ## Tech Stack 💻 (TBU)
 
@@ -134,6 +134,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [the-last-stand-url]: https://tls.andrzejw.com
 [aws-ccp-badge]: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
 [aws-ccp-url]: https://www.credly.com/badges/11b556fb-28f9-40d2-a424-27dfd9873400/linked_in_profile
+[aws-saa-badge]: https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png
 [magix-icon]: avatarOnIce.ico
 [magix-url]: https://magix.andrzejw.com
 [edgar-icon]: edgar.png
