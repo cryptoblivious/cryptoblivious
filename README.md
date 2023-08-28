@@ -56,7 +56,7 @@
 
 ### Collaboration 🤝
 
-[![Discord][discord-img]][placeholder-url]
+[![Discord][discord-img]][placeholder-url] [![Teams][teams-img]][teams-url] [![Figma][figma-img]][figma-url] [![GoogleDrive][google-drive-img]][google-drive-url]
 
 ### Front-End 👾
 
@@ -195,6 +195,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [gitlab-img]: https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
 [gitlab-url]: https://gitlab.com/
 [git-url]: https://git-scm.com/
+[google-drive-img]: https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
+[google-drive-url]: https://drive.google.com/
 [google-play-console-img]: https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white
 [google-play-console-url]: https://play.google.com/console/about/
 [html5-img]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
@@ -280,6 +282,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [sqlite-url]: https://sqlite.org/
 [tailwind-img]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
 [tailwind-url]: https://tailwindcss.com/
+[teams-img]: https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white
+[teams-url]: https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software
 [terraform-img]: https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white
 [terraform-url]: https://www.terraform.io/
 [the-last-stand-icon]: https://tls.andrzejw.com/assets/icons/cyberpunk.png
