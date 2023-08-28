@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [Edgar](https://cryptoblivious.github.io/Edgar/)
 
-🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url]![&-img]![Firebase][firebase-img]][firebase-url]
+🌱 I’m currently learning [![Flutter][flutter-img]][flutter-url][![Firebase][firebase-img]][firebase-url]
 
 ⚡ Fun fact : I use [![ChatGPT][chatgpt-img]][chatgpt-url] (almost) every day!
 
@@ -110,3 +110,5 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [chatgpt-img]: https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white
 [github-copilot-url]: https://github.com/features/copilot
 [github-copilot-img]: https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=github&logoColor=white
+[portfolio-url]: https://andrzejw.com/
+[portfolio-img]: https://img.shields.io/badge/Portfolio-FFD9EB?logo=vercel&logoColor=fuchsia&style=for-the-badge
