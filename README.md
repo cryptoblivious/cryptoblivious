@@ -34,7 +34,7 @@
 
 ## Tech Stack 💻 (TBU)
 
-### Productivity Acceleration
+### Productivity Acceleration 🚀
 
 [![ChatGPT][chatgpt-img]][chatgpt-url] [![CoPilot][github-copilot-img]][github-copilot-url]
 
@@ -46,17 +46,17 @@
 
 [![Git][git-img]][git-url] [![GitHub][github-img]][github-url]
 
-### DevSecOps 🚀
+### DevSecOps 🧠
 
 ### Collaboration 🤝
 
 [![Discord][discord-img]][placeholder-url]
 
-### Front-End
+### Front-End 👾
 
 [![Vite][vite-img]][vite-url] [![React][react-img]][react-url] [![ReactRouter][react-router-img]][react-router-url] [![Vue][vue-img]][vue-url] [![TailwindCSS][tailwind-img]][tailwind-url]
 
-### Back-End
+### Back-End 🎚️
 
 [![NodeJS][nodedotjs-img]][nodedotjs-url] [![Express][express-img]][express-url] [![Colyseus][colyseus-img]][colyseus-url] [![Passport][passport-img]][passport-url] [![Insomnia][insomnia-img]][insomnia-url] [![Phaser][phaser-img]][phaser-url] [![Socket][socket-img]][socket-url]
 
@@ -68,7 +68,7 @@
 
 [![Unity][unity-img]][unity-url] [![Phaser][phaser-img]][phaser-url] [![Colyseus][colyseus-img]][colyseus-url]
 
-### Databases 🧠
+### Databases 💽
 
 [![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![MongoDB][mongodb-img]][mongodb-url] [![Postgres][postgres-img]][postgres-url]
 
