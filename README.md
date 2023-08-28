@@ -52,7 +52,7 @@
 
 [![Insomnia][insomnia-img]][insomnia-url]
 
-### Web APIs 🌐
+### External APIs 🌐
 
 [![OpenAIAPI][openai-api-img]][openai-api-url] [![SpotifyAPI][spotify-api-img]][spotify-api-url]
 
@@ -261,7 +261,7 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [npm-url]: https://www.npmjs.com/
 [numpy-img]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [numpy-url]: https://numpy.org/
-[openai-api-img]: https://img.shields.io/badge/OpenAI_API-FF6600?style=for-the-badge&logo=openai&logoColor=white
+[openai-api-img]: https://img.shields.io/badge/openai_api-FF6600?style=for-the-badge&logo=openai&logoColor=white
 [openai-api-url]: https://platform.openai.com/
 [passport-img]: https://img.shields.io/badge/passport-47A248?style=for-the-badge&logo=passport&logoColor=white
 [passport-url]: http://www.passportjs.org/
@@ -300,7 +300,9 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [reddit-url]: https://reddit.com/user/cryptoblivious
 [socket-img]: https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
 [socket-url]: https://socket.io/
-[spotify-api-img]: https://img.shields.io/badge/Spotify_API-1ED760?logo=spotify&logoColor=white&style=for-the-badge
+[spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
+[spotify-url]: https://open.spotify.com/user/22ceorjkmcihyq5p7u6xbiymi?si=072c25ee8e4c4559
+[spotify-api-img]: https://img.shields.io/badge/Spotify_API-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-api-url]: https://developer.spotify.com/documentation/web-api/
 [sql-img]: https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white
 [sql-url]: https://www.w3schools.com/sql/
