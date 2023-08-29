@@ -40,9 +40,9 @@
       - [External APIs 🌐](#external-apis-)
       - [Authentication 🔍](#authentication-)
       - [Data Science \& Analytics 📊](#data-science--analytics-)
-  - [Random Dev Quote ✍️](#random-dev-quote-️)
-  - [Donations 🪙](#donations-)
   - [Outro 🎬](#outro-)
+    - [Donations 🪙](#donations-)
+    - [Random Dev Quote ✍️](#random-dev-quote-️)
     - [Snake 🐍 ](#snake--)
 
 ## Socials 🌐
@@ -177,23 +177,23 @@
 
 [![NumPy][numpy-img]][numpy-url] [![Matplotlib][matplotlib-img]][matplotlib-url] [![Python][python-img]][python-url]
 
-## Random Dev Quote ✍️
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## Donations 🪙
-
-| BTC                     | ETH                     | DOGE                      |
-| ----------------------- | ----------------------- | ------------------------- |
-| ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
-
 ## Outro 🎬
 
 Thanks for Visiting my GitHub Profile!
 
 Feel free to reach out to me if you have any questions, have a job opportunity or want to collaborate on a project!
 
----
+### Donations 🪙
+
+If you like my work and want to support me, you can donate to me using the following cryptocurrencies:
+
+| BTC                     | ETH                     | DOGE                      |
+| ----------------------- | ----------------------- | ------------------------- |
+| ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
+
+### Random Dev Quote ✍️
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Snake 🐍 [![Snake][snake-img]][snake-url]
 
