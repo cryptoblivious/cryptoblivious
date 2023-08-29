@@ -42,7 +42,8 @@
       - [Data Science \& Analytics 📊](#data-science--analytics-)
   - [Random Dev Quote ✍️](#random-dev-quote-️)
   - [Donations 🪙](#donations-)
-- [](#) - [Thanks for Visiting my GitHub Profile!](#thanks-for-visiting-my-github-profile)
+    - [Outro 🎬](#outro-)
+      - [Thanks for Visiting my GitHub Profile!](#thanks-for-visiting-my-github-profile)
 
 ## Socials 🌐
 
@@ -186,7 +187,7 @@
 | ----------------------- | ----------------------- | ------------------------- |
 | ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
 
-#
+### Outro 🎬
 
 #### Thanks for Visiting my GitHub Profile!
 
