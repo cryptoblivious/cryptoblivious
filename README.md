@@ -302,6 +302,8 @@ If you like my work and want to support me, you can donate to me using the follo
 [linkedin-url]: https://linkedin.com/in/andrzej-wisniowski-77234376
 [linux-img]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [linux-url]: https://www.linux.org/
+[litecoin-qr-code-img]: litecoin-qr-code.png
+[litecoin-qr-code-url]: https://litecoin.org/
 [magix-icon]: avatarOnIce.ico
 [magix-url]: https://magix.andrzejw.com
 [mariadb-img]: https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white
