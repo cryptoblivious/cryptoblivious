@@ -187,13 +187,13 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 
 If you like my work and want to support me, you can donate to me using the following cryptocurrencies:
 
-| BTC                     | ETH                     | DOGE                      |
-| ----------------------- | ----------------------- | ------------------------- |
-| ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
+| BTC                                        | ETH                                        | LITECOIN                                                  |
+| ------------------------------------------ | ------------------------------------------ | --------------------------------------------------------- |
+| [![BTC][btc-qr-code-img]][btc-qr-code-url] | [![ETH][eth-qr-code-img]][eth-qr-code-url] | [![LITECOIN][litecoin-qr-code-img]][litecoin-qr-code-url] |
 
 ### Random Dev Quote ✍️
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![RandomQuotes][random-quotes-img]][random-quotes-url]
 
 ### Snake 🐍 [![Snake][snake-img]][snake-url]
 
@@ -218,6 +218,8 @@ If you like my work and want to support me, you can donate to me using the follo
 [azure-url]: https://azure.microsoft.com/en-ca/
 [bash-img]: https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
+[btc-qr-code-img]: btc-qr-code.png
+[btc-qr-code-url]: https://bitcoin.org/en/
 [colyseus-img]: https://img.shields.io/badge/colyseus-A100FF?style=for-the-badge&logo=c&logoColor=white
 [colyseus-url]: https://colyseus.io/
 [chatgpt-img]: https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white
@@ -244,6 +246,8 @@ If you like my work and want to support me, you can donate to me using the follo
 [edgar-url]: https://github.com/cryptoblivious/Edgar
 [eslint-img]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
 [eslint-url]: https://eslint.org/
+[eth-qr-code-img]: eth-qr-code.png
+[eth-qr-code-url]: https://ethereum.org/en/
 [express-img]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white
 [express-url]: https://expressjs.com/
 [facebook-img]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge
@@ -355,6 +359,8 @@ If you like my work and want to support me, you can donate to me using the follo
 [pycharm-url]: https://www.jetbrains.com/pycharm/
 [python-img]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
+[random-quotes-img]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+[random-quotes-url]: https://github.com/PiyushSuthar/github-readme-quotes
 [react-img]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [react-router-img]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 [react-router-url]: https://reactrouter.com/
