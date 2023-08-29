@@ -219,7 +219,7 @@ If you like my work and want to support me, you can donate to me using the follo
 [bash-img]: https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
 [btc-qr-code-img]: btc-qr-code.png
-[btc-qr-code-url]: https://bitcoin.org/en/
+[btc-qr-code-url]: https://mempool.space/address/bc1qnnuf4sepdhtql94h2vygrzegf02aqd3e9devm4
 [colyseus-img]: https://img.shields.io/badge/colyseus-A100FF?style=for-the-badge&logo=c&logoColor=white
 [colyseus-url]: https://colyseus.io/
 [chatgpt-img]: https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white
@@ -247,7 +247,7 @@ If you like my work and want to support me, you can donate to me using the follo
 [eslint-img]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
 [eslint-url]: https://eslint.org/
 [eth-qr-code-img]: eth-qr-code.png
-[eth-qr-code-url]: https://ethereum.org/en/
+[eth-qr-code-url]: https://etherscan.io/address/0x4a8aE195FdcCD635a7101e5b59AB545E2CC4cae1
 [express-img]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white
 [express-url]: https://expressjs.com/
 [facebook-img]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge
@@ -303,7 +303,7 @@ If you like my work and want to support me, you can donate to me using the follo
 [linux-img]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [linux-url]: https://www.linux.org/
 [litecoin-qr-code-img]: litecoin-qr-code.png
-[litecoin-qr-code-url]: https://litecoin.org/
+[litecoin-qr-code-url]: https://live.blockcypher.com/ltc/address/LNTNhPPtgPXLgV9VuNDtXHvaXKmoh1NY5L/
 [magix-icon]: avatarOnIce.ico
 [magix-url]: https://magix.andrzejw.com
 [mariadb-img]: https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white
