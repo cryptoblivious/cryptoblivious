@@ -6,10 +6,10 @@
 
 - [Socials](#socials-)
 - [Projects](#projects-)
-  - [Edgar](#-edgar-edgar--your-personal-chef)
-  - [TheLastStand](#thelaststand-the-last-stand)
-  - [Magix](#magix-magix--the-last-cardbender)
-  - [Portfolio](#portfolio-andrzej-w--portfolio)
+  - [Edgar](#-edgar--your-personal-chef)
+  - [TheLastStand](#-the-last-stand)
+  - [Magix](#-magix--the-last-cardbender)
+  - [Portfolio](#-andrzej-w-portfolio)
 - [Certifications](#certifications-)
 - [TechStack](#tech-stack-)
 
@@ -95,7 +95,7 @@
 
 ##### Front-End 👾
 
-[![Flutter][flutter-url]][flutter-img] [![Dart][dart-img]][dart-url] [![Vite][vite-img]][vite-url] [![React][react-img]][react-url] [![TailwindCSS][tailwind-img]][tailwind-url] [![ReactRouter][react-router-img]][react-router-url] [![Vue][vue-img]][vue-url] [![HTML5][html5-img]][html5-url] [![CSS3][css3-img]][css3-url] [![Javascript][javascript-img]][javascript-url] [![Typescript][typescript-img]][typescript-url] [![Markdown][markdown-img]][markdown-url]
+[![Flutter][flutter-img]][flutter-url] [![Dart][dart-img]][dart-url] [![Vite][vite-img]][vite-url] [![React][react-img]][react-url] [![TailwindCSS][tailwind-img]][tailwind-url] [![ReactRouter][react-router-img]][react-router-url] [![Vue][vue-img]][vue-url] [![HTML5][html5-img]][html5-url] [![CSS3][css3-img]][css3-url] [![Javascript][javascript-img]][javascript-url] [![Typescript][typescript-img]][typescript-url] [![Markdown][markdown-img]][markdown-url]
 
 ##### Back-End 🎚️
 
@@ -167,6 +167,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 
 [adobe-xd-img]: https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
 [adobe-xd-url]: https://www.adobe.com/ca/products/xd.html
+[agile-img]: https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white
+[agile-url]: https://agilemanifesto.org/
 [android-studio-img]: https://img.shields.io/badge/Android_Studio-47A248?style=for-the-badge&logo=android-studio&logoColor=white
 [android-studio-url]: https://developer.android.com/studio
 [ansible-img]: https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white
@@ -323,6 +325,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [react-url]: https://reactjs.org/
 [reddit-img]: https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge
 [reddit-url]: https://reddit.com/user/cryptoblivious
+[scrum-img]: https://img.shields.io/badge/Scrum-239120?style=for-the-badge&logo=scrum&logoColor=white
+[scrum-url]: https://www.scrum.org/
 [socket-img]: https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
 [socket-url]: https://socket.io/
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
