@@ -42,8 +42,8 @@
       - [Data Science \& Analytics 📊](#data-science--analytics-)
   - [Random Dev Quote ✍️](#random-dev-quote-️)
   - [Donations 🪙](#donations-)
-    - [Outro 🎬](#outro-)
-      - [Snake 🐍 ](#snake--)
+  - [Outro 🎬](#outro-)
+    - [Snake 🐍 ](#snake--)
 
 ## Socials 🌐
 
@@ -187,7 +187,7 @@
 | ----------------------- | ----------------------- | ------------------------- |
 | ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
 
-### Outro 🎬
+## Outro 🎬
 
 Thanks for Visiting my GitHub Profile!
 
@@ -195,7 +195,7 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 
 ---
 
-#### Snake 🐍 [![Snake][snake-img]][snake-url]
+### Snake 🐍 [![Snake][snake-img]][snake-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
