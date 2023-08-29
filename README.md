@@ -51,83 +51,99 @@
 
 [![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url] [![Helm][helm-img]][helm-url]
 
-### Operating Systems 🖥️
+### Development Environment 🛠️
+
+#### Operating Systems 🖥️
 
 [![Windows][windows-img]][windows-url] [![Linux][linux-img]][linux-url]
 
-### IDEs & Editors 📝
+#### IDEs & Editors 📝
 
 [![VSCode][vscode-img]][vscode-url] [![AndroidStudio][android-studio-img]][android-studio-url] [![IntelliJ][intellij-img]][intellij-url] [![VisualStudio][visual-studio-img]][visual-studio-url] [![Pycharm][pycharm-img]][pycharm-url]
 
-### Languages 🈸
+#### Languages 🈸
 
 [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![PHP][php-img]][php-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url] [![Markdown][markdown-img]][markdown-url]
 
 <!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact) -->
 
-### Productivity Acceleration 🚀
+### Development Workflow 🌊
+
+#### Methodologies 📈
+
+[![AGILE][agile-img]][agile-url] [![Scrum][scrum-img]][scrum-url]
+
+#### Productivity Acceleration 🚀
 
 [![ChatGPT][chatgpt-img]][chatgpt-url] [![CoPilot][github-copilot-img]][github-copilot-url]
 
-### Collaboration 🤝
+#### Collaboration 🤝
 
 [![Discord][discord-img]][placeholder-url] [![Teams][teams-img]][teams-url] [![GoogleDrive][google-drive-img]][google-drive-url] [![Figma][figma-img]][figma-url]
 
-### Versionning 📚
+#### Versionning 📚
 
 [![Git][git-img]][git-url] [![GitHub][github-img]][github-url]
 
-### Mobile Development 💡
+### Application Development 📱
+
+#### Mobile Development 💡
 
 [![Flutter][flutter-img]][flutter-url] [![Firebase][firebase-img]][firebase-url] [![GooglePlayConsole][google-play-console-img]][google-play-console-url] [![AndroidStudio][android-studio-img]][android-studio-url] [![Dart][dart-img]][dart-url]
 
-### Front-End 👾
+#### Web Development 🌐
+
+##### Front-End 👾
 
 [![Flutter][flutter-url]][flutter-img] [![Dart][dart-img]][dart-url] [![Vite][vite-img]][vite-url] [![React][react-img]][react-url] [![TailwindCSS][tailwind-img]][tailwind-url] [![ReactRouter][react-router-img]][react-router-url] [![Vue][vue-img]][vue-url] [![HTML5][html5-img]][html5-url] [![CSS3][css3-img]][css3-url] [![Javascript][javascript-img]][javascript-url] [![Typescript][typescript-img]][typescript-url] [![Markdown][markdown-img]][markdown-url]
 
-### Back-End 🎚️
+##### Back-End 🎚️
 
 [![NodeJS][nodedotjs-img]][nodedotjs-url] [![Express][express-img]][express-url] [![Insomnia][insomnia-img]][insomnia-url] [![Passport][passport-img]][passport-url] [![Socket][socket-img]][socket-url] [![Colyseus][colyseus-img]][colyseus-url] [![Phaser][phaser-img]][phaser-url] [![Python][python-img]][python-url] [![MongoDB][mongodb-img]][mongodb-url] [![Firestore][firestore-img]][firestore-url] [![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![Postgres][postgres-img]][postgres-url]
 
-### Cloud Computing ☁️
+#### Game Development 🎮
+
+[![Unity][unity-img]][unity-url] [![Phaser][phaser-img]][phaser-url] [![Colyseus][colyseus-img]][colyseus-url]
+
+### Infrastructure 🏗️
+
+#### Cloud Computing ☁️
 
 [![AWS][aws-img]][aws-url] [![GCP][gcp-img]][gcp-url]
 
-### Web Hosting 🌐
+#### Web Hosting 🌐
 
 [![Netlify][netlify-img]][netlify-url]
 
-### Development Tools & Package Management 📦
-
-[![Yarn][yarn-img]][yarn-url] [![NPM][npm-img]][npm-url] [![Pip][pip-img]][pip-url] [![Nodemon][nodemon-img]][nodemon-url] [![Webpack][webpack-img]][webpack-url] [![Prettier][prettier-img]][prettier-url] [![ESLint][eslint-img]][eslint-url]
-
-### Databases 💽
+#### Databases 💽
 
 [![Firestore][firestore-img]][firestore-url] [![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![MongoDB][mongodb-img]][mongodb-url] [![Postgres][postgres-img]][postgres-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url]
 
-### API Testing 🧪
+#### Development Tools & Package Management 📦
 
-[![Insomnia][insomnia-img]][insomnia-url]
+[![Yarn][yarn-img]][yarn-url] [![NPM][npm-img]][npm-url] [![Pip][pip-img]][pip-url] [![Nodemon][nodemon-img]][nodemon-url] [![Webpack][webpack-img]][webpack-url] [![Prettier][prettier-img]][prettier-url] [![ESLint][eslint-img]][eslint-url]
 
-### External APIs 🌐
+### Other Tools 🛠️
 
-[![OpenAIAPI][openai-api-img]][openai-api-url] [![SpotifyAPI][spotify-api-img]][spotify-api-url] [![GoogleAuthAPI][google-auth-api-img]][google-auth-api-url]
-
-### Authentication 🔍
-
-[![FirebaseAuth][firebase-auth-img]][firebase-auth-url] [![Passport][passport-img]][passport-url] [![GoogleAuthAPI][google-auth-api-img]][google-auth-api-url]
-
-### Graphism 🧰
+#### Graphism 🧰
 
 [![AdobeXD][adobe-xd-img]][adobe-xd-url] [![Figma][figma-img]][figma-url] [![Photoshop][photoshop-img]][photoshop-url]
 
-### Data Science & Analytics 📊
+#### API Testing 🧪
+
+[![Insomnia][insomnia-img]][insomnia-url]
+
+#### External APIs 🌐
+
+[![OpenAIAPI][openai-api-img]][openai-api-url] [![SpotifyAPI][spotify-api-img]][spotify-api-url] [![GoogleAuthAPI][google-auth-api-img]][google-auth-api-url]
+
+#### Authentication 🔍
+
+[![FirebaseAuth][firebase-auth-img]][firebase-auth-url] [![Passport][passport-img]][passport-url] [![GoogleAuthAPI][google-auth-api-img]][google-auth-api-url]
+
+#### Data Science & Analytics 📊
 
 [![NumPy][numpy-img]][numpy-url] [![Matplotlib][matplotlib-img]][matplotlib-url] [![Python][python-img]][python-url]
-
-### Game Development 🎮
-
-[![Unity][unity-img]][unity-url] [![Phaser][phaser-img]][phaser-url] [![Colyseus][colyseus-img]][colyseus-url]
 
 ## Random Dev Quote ✍️
 
