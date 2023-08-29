@@ -4,14 +4,45 @@
 
 # Table of Contents
 
-- [Socials](#socials-)
-- [Projects](#projects-)
-  - [Edgar](#-edgar--your-personal-chef)
-  - [TheLastStand](#-the-last-stand)
-  - [Magix](#-magix--the-last-cardbender)
-  - [Portfolio](#-andrzej-w-portfolio)
-- [Certifications](#certifications-)
-- [TechStack](#tech-stack-)
+- [Table of Contents](#table-of-contents)
+  - [Socials 🌐](#socials-)
+  - [Projects 🤖](#projects-)
+    - [ Edgar : Your Personal Chef](#-edgar--your-personal-chef)
+    - [ The Last Stand](#-the-last-stand)
+    - [ Magix : The Last Cardbender](#-magix--the-last-cardbender)
+    - [ Andrzej W | Portfolio](#-andrzej-w-portfolio)
+  - [Certifications 🌟](#certifications-)
+  - [Tech Stack 💻](#tech-stack-)
+    - [Things to Learn 📖](#things-to-learn-)
+    - [Development Environment 🛠️](#development-environment-️)
+      - [Operating Systems 🖥️](#operating-systems-️)
+      - [IDEs \& Editors 📝](#ides--editors-)
+      - [Languages 🈸](#languages-)
+    - [Development Workflow 🌊](#development-workflow-)
+      - [Methodologies 📈](#methodologies-)
+      - [Productivity Acceleration 🚀](#productivity-acceleration-)
+      - [Collaboration 🤝](#collaboration-)
+      - [Versionning 📚](#versionning-)
+    - [Application Development 📱](#application-development-)
+      - [Mobile Development 💡](#mobile-development-)
+      - [Web Development 🌐](#web-development-)
+        - [Front-End 👾](#front-end-)
+        - [Back-End 🎚️](#back-end-️)
+      - [Game Development 🎮](#game-development-)
+    - [Infrastructure 🏗️](#infrastructure-️)
+      - [Cloud Computing ☁️](#cloud-computing-️)
+      - [Web Hosting 🌐](#web-hosting-)
+      - [Databases 💽](#databases-)
+      - [Development Tools \& Package Management 📦](#development-tools--package-management-)
+    - [Other Tools 🛠️](#other-tools-️)
+      - [Graphism 🧰](#graphism-)
+      - [API Testing 🧪](#api-testing-)
+      - [External APIs 🌐](#external-apis-)
+      - [Authentication 🔍](#authentication-)
+      - [Data Science \& Analytics 📊](#data-science--analytics-)
+  - [Random Dev Quote ✍️](#random-dev-quote-️)
+  - [Donations 🪙](#donations-)
+- [](#) - [Thanks for Visiting my GitHub Profile!](#thanks-for-visiting-my-github-profile)
 
 ## Socials 🌐
 
@@ -155,7 +186,9 @@
 | ----------------------- | ----------------------- | ------------------------- |
 | ![BTC](btc-qr-code.png) | ![ETH](eth-qr-code.png) | ![DOGE](doge-qr-code.png) |
 
-### Thanks for Visiting my GitHub Profile!
+#
+
+#### Thanks for Visiting my GitHub Profile!
 
 Feel free to reach out to me if you have any questions, have a job opportunity or want to collaborate on a project!
 
