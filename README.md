@@ -234,8 +234,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [gitlab-img]: https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
 [gitlab-url]: https://gitlab.com/
 [git-url]: https://git-scm.com/
-[google-auth-img]: https://img.shields.io/badge/google_auth-4285F4?style=for-the-badge&logo=google&logoColor=white
-[google-auth-url]: https://developers.google.com/identity/protocols/oauth2
+[google-auth-api-img]: https://img.shields.io/badge/google_auth-4285F4?style=for-the-badge&logo=google&logoColor=white
+[google-auth-api-url]: https://developers.google.com/identity/protocols/oauth2
 [google-drive-img]: https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
 [google-drive-url]: https://drive.google.com/
 [google-play-console-img]: https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white
