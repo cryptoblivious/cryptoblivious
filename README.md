@@ -43,7 +43,7 @@
   - [Random Dev Quote ✍️](#random-dev-quote-️)
   - [Donations 🪙](#donations-)
     - [Outro 🎬](#outro-)
-      - [](#)
+      - [Snake 🐍 ](#snake--)
 
 ## Socials 🌐
 
@@ -195,7 +195,7 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 
 ---
 
-#### [![Snake][snake-img]][snake-url]
+#### Snake 🐍 [![Snake][snake-img]][snake-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
