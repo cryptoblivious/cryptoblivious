@@ -43,7 +43,7 @@
   - [Random Dev Quote ✍️](#random-dev-quote-️)
   - [Donations 🪙](#donations-)
     - [Outro 🎬](#outro-)
-      - [Thanks for Visiting my GitHub Profile!](#thanks-for-visiting-my-github-profile)
+      - [](#)
 
 ## Socials 🌐
 
@@ -189,13 +189,13 @@
 
 ### Outro 🎬
 
-#### Thanks for Visiting my GitHub Profile!
+Thanks for Visiting my GitHub Profile!
 
 Feel free to reach out to me if you have any questions, have a job opportunity or want to collaborate on a project!
 
 ---
 
-![Snake](github-contribution-grid-snake.svg)
+#### [![Snake][snake-img]][snake-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -363,6 +363,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [reddit-url]: https://reddit.com/user/cryptoblivious
 [scrum-img]: https://img.shields.io/badge/Scrum-239120?style=for-the-badge&logo=scrum&logoColor=white
 [scrum-url]: https://www.scrum.org/
+[snake-img]: github-contribution-grid-snake.svg
+[snake-url]: https://snake.io/
 [socket-img]: https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
 [socket-url]: https://socket.io/
 [spotify-img]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
