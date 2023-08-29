@@ -112,11 +112,11 @@
 
 [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![PHP][php-img]][php-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url] [![Markdown][markdown-img]][markdown-url]
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+<!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact) -->
 
 ### Things to Learn 📖
 
-[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url]
+[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url] [![Helm][help-img]][helm-url]
 
 ### Misc 🦾
 
@@ -213,6 +213,8 @@ Feel free to reach out to me if you have any questions, have a job opportunity o
 [google-drive-url]: https://drive.google.com/
 [google-play-console-img]: https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white
 [google-play-console-url]: https://play.google.com/console/about/
+[helm-img]: https://img.shields.io/badge/helm-277A9F?style=for-the-badge&logo=helm&logoColor=white
+[helm-url]: https://helm.sh/
 [html5-img]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [insomnia-img]: https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white
