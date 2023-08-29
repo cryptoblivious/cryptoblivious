@@ -131,11 +131,11 @@
 
 ##### Back-End 🎚️
 
-[![NodeJS][nodedotjs-img]][nodedotjs-url] [![Express][express-img]][express-url] [![Insomnia][insomnia-img]][insomnia-url] [![Passport][passport-img]][passport-url] [![Socket][socket-img]][socket-url] [![Colyseus][colyseus-img]][colyseus-url] [![Phaser][phaser-img]][phaser-url] [![Python][python-img]][python-url] [![MongoDB][mongodb-img]][mongodb-url] [![Firestore][firestore-img]][firestore-url] [![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![Postgres][postgres-img]][postgres-url]
+[![NodeJS][nodedotjs-img]][nodedotjs-url] [![Express][express-img]][express-url] [![Insomnia][insomnia-img]][insomnia-url] [![Passport][passport-img]][passport-url] [![Socket][socket-img]][socket-url] [![Colyseus][colyseus-img]][colyseus-url] [![Phaser][phaser-img]][phaser-url] [![Python][python-img]][python-url] [![MongoDB][mongodb-img]][mongodb-url] [![Firestore][firestore-img]][firestore-url] [![MySQL][mysql-img]][mysql-url] [![MariaDB][mariadb-img]][mariadb-url] [![SQLite][sqlite-img]][sqlite-url] [![Neo4J][neo4j-img]][neo4j-url] [![Postgres][postgres-img]][postgres-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url]
 
 #### Game Development 🎮
 
-[![Unity][unity-img]][unity-url] [![Phaser][phaser-img]][phaser-url] [![Colyseus][colyseus-img]][colyseus-url]
+[![Unity][unity-img]][unity-url] [![Phaser][phaser-img]][phaser-url] [![Colyseus][colyseus-img]][colyseus-url] [![C#][csharp-img]][csharp-url] [![Python][python-img]][python-url]
 
 ### Infrastructure 🏗️
 
@@ -153,7 +153,7 @@
 
 #### Development Tools & Package Management 📦
 
-[![Yarn][yarn-img]][yarn-url] [![NPM][npm-img]][npm-url] [![Pip][pip-img]][pip-url] [![Nodemon][nodemon-img]][nodemon-url] [![Webpack][webpack-img]][webpack-url] [![Prettier][prettier-img]][prettier-url] [![ESLint][eslint-img]][eslint-url]
+[![Yarn][yarn-img]][yarn-url] [![NPM][npm-img]][npm-url] [![Pip][pip-img]][pip-url] [![Nodemon][nodemon-img]][nodemon-url] [![Webpack][webpack-img]][webpack-url] [![Prettier][prettier-img]][prettier-url] [![ESLint][eslint-img]][eslint-url] [![JSON][json-img]][json-url]
 
 ### Other Tools 🛠️
 
