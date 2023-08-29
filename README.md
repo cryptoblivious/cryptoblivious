@@ -4,14 +4,14 @@
 
 # Table of Contents
 
-- [Socials](#socials-🌐)
-- [Projects](#projects-🤖)
-  - [Edgar](#edgar-edgar--your-personal-chef)
+- [Socials](#socials-)
+- [Projects](#projects-)
+  - [Edgar](#-edgar-edgar--your-personal-chef)
   - [TheLastStand](#thelaststand-the-last-stand)
   - [Magix](#magix-magix--the-last-cardbender)
   - [Portfolio](#portfolio-andrzej-w--portfolio)
-- [Certifications](#certifications-🌟)
-- [TechStack](#tech-stack-💻)
+- [Certifications](#certifications-)
+- [TechStack](#tech-stack-)
 
 ## Socials 🌐
 
