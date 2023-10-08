@@ -81,7 +81,7 @@
 
 ### Things to Learn 📖
 
-[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url] [![Helm][helm-img]][helm-url]
+[![GitLab][gitlab-img]][gitlab-url] [![Docker][docker-img]][docker-url] [![Jira][jira-img]][jira-url] [![Jenkins][jenkins-img]][jenkins-url] [![Ansible][ansible-img]][ansible-url] [![Kubernetes][kubernetes-img]][kubernetes-url] [![Terraform][terraform-img]][terraform-url] [!Yaml[yaml-img]][yaml-url] [![Datadog][datadog-img]][datadog-url] [![Azure][azure-img]][azure-url] [![Prometheus][prometheus-img]][prometheus-url] [![Chef][chef-img]][chef-url] [![Puppet][puppet-img]][puppet-url] [![CircleCI][circle-ci-img]][circle-ci-url] [![Helm][helm-img]][helm-url]
 
 ### Development Environment 🛠️
 
@@ -95,7 +95,7 @@
 
 #### Languages 🈸
 
-[![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![JSON][json-img]][json-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![Dart][dart-img]][dart-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Javascript][javascript-img]][javascript-url] [![SQL][sql-img]][sql-url] [![Markdown][markdown-img]][markdown-url] [![C++][cpp-img]][cpp-url] [![PHP][php-img]][php-url]
+[![Python][python-img]][python-url] [![JSON][json-img]][json-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![TypeScript][typescript-img]][typescript-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![Dart][dart-img]][dart-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Javascript][javascript-img]][javascript-url] [![SQL][sql-img]][sql-url] [![Markdown][markdown-img]][markdown-url] [![C++][cpp-img]][cpp-url] [![PHP][php-img]][php-url]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&layout=donut&theme=radical)](https://github.com/cryptoblivious)
 
