@@ -95,7 +95,7 @@
 
 #### Languages 🈸
 
-[![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![JSON][json-img]][json-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![Dart][dart-img]][dart-url] [![Javascript][javascript-img]][javascript-url] [![SQL][sql-img]][sql-url] [![Markdown][markdown-img]][markdown-url] [![C++][cpp-img]][cpp-url] [![PHP][php-img]][php-url]
+[![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![JSON][json-img]][json-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![Dart][dart-img]][dart-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Javascript][javascript-img]][javascript-url] [![SQL][sql-img]][sql-url] [![Markdown][markdown-img]][markdown-url] [![C++][cpp-img]][cpp-url] [![PHP][php-img]][php-url]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&layout=donut&theme=radical)](https://github.com/cryptoblivious)
 
