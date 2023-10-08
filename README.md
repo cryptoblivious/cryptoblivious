@@ -95,10 +95,9 @@
 
 #### Languages 🈸
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&layout=compact)](https://github.com/cryptoblivious)
-
-
 [![Python][python-img]][python-url] [![TypeScript][typescript-img]][typescript-url] [![PHP][php-img]][php-url] [![Javascript][javascript-img]][javascript-url] [![C++][cpp-img]][cpp-url] [![C#][csharp-img]][csharp-url] [![Java][java-img]][java-url] [![Bash][bash-img]][bash-url] [![PowerShell][powershell-img]][powershell-url] [![CSS3][css3-img]][css3-url] [![HTML5][html5-img]][html5-url] [![SQL][sql-img]][sql-url] [![JSON][json-img]][json-url] [![Dart][dart-img]][dart-url] [![Markdown][markdown-img]][markdown-url]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&layout=compact&theme=radical)](https://github.com/cryptoblivious)
 
 <!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoblivious&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact) -->
 
