@@ -411,6 +411,8 @@ If you like my work and want to support me, you can donate to me using the follo
 [webpack-url]: https://webpack.js.org/
 [windows-img]: https://img.shields.io/badge/windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [windows-url]: https://www.microsoft.com/en-us/windows/windows-11
+[yaml-img]: https://img.shields.io/badge/yaml-%2300f.svg?style=for-the-badge&logo=yaml&logoColor=white
+[yaml-url]: https://yaml.org/
 [yarn-img]: https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
 [yarn-url]: https://yarnpkg.com/
 [youtube-img]: https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge
